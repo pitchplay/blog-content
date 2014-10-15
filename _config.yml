@@ -1,0 +1,11 @@
+permalink: /:categories/:title
+
+url: http://blog.pitchplay.io
+title: pitchplay | blog
+
+root: /
+markdown: rdiscount
+highlighter: "pygments"
+
+paginate: 5
+paginate_path: "page:num"
