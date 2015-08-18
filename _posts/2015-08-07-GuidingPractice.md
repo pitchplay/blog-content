@@ -4,55 +4,16 @@ title: "Guiding Practice"
 categories: practice
 tags: [help, self-motivation]
 ---
-I have recently given up on dictating practice times for my students and my
-student's parents. The problem with telling a student or parent's telling their
-kids that they "have" to practice daily for a set amount of time is that for the
-child, practicing becomes a chore that they feel they are enduring. In my
-experience, it is unlikely, once practicing has become something to be endured,
-that the child will become self-motivated to learn, play or practice their
-instrument. This means that once you as a parent or teacher start handing out
-rewards for a child having practiced, you've inhibited the child's
-self-motivation. Even if the child will work towards the reward in the short
-term, when they decide the reward is not worth their time, you will both end up
-frustrated.
+I no longer force my students to practice.
 
-I think that one of the most effective ways to combat issues with practicing is
-for the teacher and the student to agree upon weekly goals. It is then the
-responsibility of the student to set daily goals that they want to accomplish.
-It is often helpful, particularly with younger students, if parents help out by
-setting the small goals for each practice session (of course the parents have to
-know what is expected of the student by the teacher for this to be successful).
-This ensures that parents are involved and engaged with the child's practice
-habits which can be helpful for the child during busy weeks when it may have
-been easy to just skip a night or two. Some parents have their children
-demonstrate a memorized line or anywhere from 4-8 bars each night. Daily
-practicing and goal accomplishments make students proud of what they have
-accomplished and often, their pride results in self-motivation.
+It's not that I don't want them to rehearse - trust me, I do. But telling people that they "have" to practice makes the whole thing become a chore. And this can easily kill someone's self-motivation to learn, play, or practice their instrument. Why would I choose to do that to someone?! My goal is to help people enjoy their instruments as much as they can. I want you to soak up every note and feel alive when you play music.
 
-As a teacher, I have to make sure that my students know what I expect them to
-work towards over the short-term span of not just the week but also the upcoming
-month. Whether it is a performance at a festival or a recital or just a piece to
-put into their expanding repertoire, they know what I want to see in the
-following week and an idea of what we are working towards in the upcoming
-months. If you are  unsure of what is expected of you (or your child) each week,
-ask your teacher to start making a list of the things she wants you to
-accomplish over the week. Better yet, you make the list yourself. Review it with
-your teacher at the end of your lesson to make sure you have interpreted
-correctly and kept track of everything he or she wants.
+Rewards can be useful when you need motivation, but tangible rewards directly attached to practice is a precarious path to walk. Imagine letting a child play with a toy after practice - this may work in the short-term, but what happens if they start feeling like the reward is not worth their time? Perhaps you reward yourself with a glass of wine after spending 30 minutes with your piano. That is nice (good wine can be lovely), but what happens if you don't want a drink that day? Or maybe you've given up wine for a completely unrelated reason. Now, the reward is suddenly uncompelling and your motivator for spending time with your instrument is gone.
 
-It might be helpful and fun to come up with a creative idea that makes
-practicing self-motivating. A couple of my favourite ideas include the
-three-penny game and the painted beans game. The three-penny game is simple.
-Three pennies are placed on one side of the stand and each time a troublesome
-measure, line or piece is reviewed or worked on, a penny is moved to the
-opposite side of the stand. With this method, a troublesome section will be
-reviewed at least three times. The painted beans game begins as a fun craft.
-With paints, glitter and dried beans, you, or your child, creates magical bean
-"money." The student gets to keep the bean money in a bag and an empty bean
-piggy-bank beside their stand. When they feel like they have accomplished a
-goal, they can pay themselves by adding a bean to the jar. For more ideas you
-can check out this link: http://www.npr.org/sections/deceptivecadence/2012/06/18/155282684/getting-kids-to-practice-music-without-tears-or-tantrums.
-If you feel like you or your child might need some further motivation, you can
-check out the blog "Making Music Fun Again."
+So, how do we deal with this? Goals! Goals are fantastic motivators. When you set goals then you've identified something specific to work toward. Goals also require a little understanding - you should have both short-term and long-term goals. It's not enough to say, "I'd like to be able to learn song X" because you may be relatively far away from achieving that goal. Deciding that you'd like to spend a week learning to play the first passage in a song is a great short-term goal because we've now taken our longer-term goal and also created a manageable, measurable chunk. When you set and achieve attainable goals, the brain rewards you with a little neurotransmitter called dopamine. I'm not going to get into the science of it, but dopamine is key in reinforcing behaviour. It makes us feel good, which tells our brain to remember what we did that made us feel this way. We can actually make learning addictive by setting goals and feeling that wonderful positive reinforcement!
+
+Here's where it all comes together - specific actions, short and long-term goals, psychological rewards. What if I told you that games hit all of those items? Playing games is an incredible way to marry these things into a fun, repeatable package. In fact, it's why we designed PitchPlay the way we did! Almost anything can behave like a game. Simply counting the number of times you've played a piece without hitting a "bum" note is a form of gaming! Strive for 5 times in a row with each section of a song. Then, put them all together and aim to play the entire song 5 times in a row. You can be as simple or as complex as you'd like about what the boundaries, rules, and conditions are for your "game", but the fact is that if we have goals to achieve then our brains reward the achievement with positive reinforcement. The next thing you know, you'll have mastered your song. This type of technique can be used to break many musical routines down into more engaging elements.
+
+Guess what? We've now successfully managed to turn practice from a chore into something fun. And who doesn't like fun?
 
 ----
