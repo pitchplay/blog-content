@@ -17,8 +17,9 @@ header {
   border-bottom: 1px solid #626A6D;
 }
   .header-img {
-    height: 140px;
+    height: 100px;
     width:auto;
+    display:inline-block;
   }
 
 footer {
@@ -29,7 +30,7 @@ footer {
 }
 
 nav {
-  height: 144px;
+  height: 100px;
 }
 
 ul {
@@ -47,4 +48,13 @@ ul li {
 
 .post-body h1 {
   margin-bottom: 20px;
+}
+
+.btn-nav {
+  display:inline;
+  background-color:#F8AE1B;
+  color:#FFF;
+  position:fixed;
+  right:40px;
+  top:35px;
 }
