@@ -1,13 +1,12 @@
-@import url(http://fonts.googleapis.com/css?family=Merriweather+Sans:300);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 html {
   position: relative;
   min-height: 100%;
 }
 html, body {
-  font-family: 'Merriweather Sans', sans-serif;
-  font-size: 12px;
-  background-color:ghostwhite;
+  font-family: 'Open Sans', sans-serif;
+  background-color: ghostwhite;
 }
 body { margin-bottom: 70px; }
 h1,h2,h3,h4,h5,h6 { margin-bottom: 0; }
@@ -16,11 +15,6 @@ header {
   background: url('/assets/img/bg.png');
   border-bottom: 1px solid #626A6D;
 }
-  .header-img {
-    height: 100px;
-    width:auto;
-    display:inline-block;
-  }
 
 footer {
   position: absolute;
@@ -29,9 +23,15 @@ footer {
   height: 70px;
 }
 
-nav {
-  height: 100px;
+.navbar, .navbar-default {
+  background: none;
+  border: 0;
 }
+
+  .active {
+    background-color:#F8AE1B;
+    color:#FFF;
+  }
 
 ul {
   list-style-type: none;
@@ -51,10 +51,7 @@ ul li {
 }
 
 .btn-nav {
-  display:inline;
-  background-color:#F8AE1B;
-  color:#FFF;
-  position:fixed;
-  right:40px;
-  top:35px;
+  display: inline-block;
+  background-color: #F8AE1B;
+  color: #FFF;
 }
