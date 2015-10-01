@@ -50,6 +50,12 @@ ul li {
   margin-bottom: 20px;
 }
 
+.post-body img {
+  margin-top: 20px;
+  width:100%;
+  height:auto;
+}
+
 .btn-nav {
   display: inline-block;
   background-color: #F8AE1B;
