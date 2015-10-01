@@ -3,6 +3,7 @@ layout: post
 title: "Guiding Practice"
 categories: practice
 tags: [help, self-motivation]
+img: playing-piano.png
 ---
 I no longer force my students to practice.
 

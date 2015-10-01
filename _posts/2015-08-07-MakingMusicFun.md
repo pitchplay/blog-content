@@ -3,6 +3,7 @@ layout: post
 title: "Making Music Fun Again"
 categories: motivation
 tags: [practice, self-motivation, fun]
+img: playing-guitar.png
 ---
 Stuck in a rut? Do you want to make music learning fun again?
 
