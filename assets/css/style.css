@@ -31,6 +31,7 @@ footer {
   .active {
     background-color:#F8AE1B;
     color:#FFF;
+    font-weight: 700;
   }
 
 ul {
@@ -54,10 +55,4 @@ ul li {
   margin-top: 20px;
   width:100%;
   height:auto;
-}
-
-.btn-nav {
-  display: inline-block;
-  background-color: #F8AE1B;
-  color: #FFF;
 }
