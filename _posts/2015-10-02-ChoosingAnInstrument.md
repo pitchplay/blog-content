@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Choosing an Instrument"
+author: "Rob Gillan"
 categories: beginners
 tags: [beginner, new, instrument, choose, choosing]
 img: playing-cello.png
