@@ -7,7 +7,7 @@
       <div class="post-body col-xs-12 col-sm-8">
         <img class="center-block img-responsive" src="/assets/img/{{ page.img }}" alt="Post Photo">
         <h1>{{ page.title }}</h1>
-        <h4>{{ page.date | date: "%B %-d, %Y" }}</h4>
+        <h4>{{ page.date | date: "%B %-d, %Y" }} - by {{ page.author }}</h4>
         {{ content }}
       </div>
       <div class="col-xs-12 col-sm-4">
