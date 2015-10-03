@@ -64,6 +64,11 @@ footer {
   height: auto;
 }
 
+/* todo(rgillan): remove when adsense banners go in */
+.post-recent {
+  margin-top: 20px;
+}
+
 .adsense-header, .adsense-right {
   border: 1px solid black;
   background-color: #FFF;
