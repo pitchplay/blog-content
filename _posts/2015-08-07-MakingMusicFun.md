@@ -1,54 +1,27 @@
 ---
 layout: post
 title: "Making Music Fun Again"
+author: "Rob Gillan"
 categories: motivation
 tags: [practice, self-motivation, fun]
 img: playing-guitar.png
 ---
-Stuck in a rut? Do you want to make music learning fun again?
+<p>Stuck in a rut? Do you want to make music learning fun again?</p>
 
-Music is emotional - it is fun and exciting. Sometimes changes in our lives
-change how we perceive our musical experiences. This can be especially prevalent
-in the music that we listen to, let alone what we play on our instruments.
-Perhaps after going through a break-up, something about Sam Hunt’s “Take Your
-Time” really hits home. Or suddenly Eric Paslay and Little Big Town become
-favorites that you may not have known existed before. Often when something in
-your life changes, the way you perceive the lyrics and sounds of a genre
-changes. Perhaps this leads you to find a new love for a new genre. It could
-also reignite your excitement with an old genre or artist you listened to in the
-past. Maybe you end up exploring something completely new to you! We have to
-remind ourselves that our taste in music changes at different points in our
-lives and, along with it, our interest, excitement, and emotional attachment
-to playing certain pieces might as well. It is important to consider whether
-your interest in listening to a particular artist or genre has changed. If it
-has, do you need to modify what you are playing to maintain your interest in
-practicing your instrument?
-
-Sometimes because of a loss of interest or desire the time and availability you
-once set aside for practicing disappears. Maybe life has become busier or
-practicing just stopped seeming as important as it once was. When these things
-happen, it is important to find a reason to practice or learn something new. I
-try to ensure that my students and I are always working towards a performance.
-I like to have quarterly recitals or get them playing in seniors' homes monthly.
-For myself, I like to learn a new piece or revamp an old one for each
-performance. If you think that you need to find a reason to practice or learn
-new material, you can schedule yourself a performance or even a jam session with
-friends. Make the performance or jam part of your routine to keep yourself
-practicing on a consistent basis.
-
-While I encourage working towards performances with my students I also try to
-ensure that they have the opportunity to define what they want to learn and then
-learn some of the things that they discover they like. I encourage them to
-explore and to try composing their own pieces. Sometimes falling into a rut
-happens because we feel like the music we play is too rehearsed. Sometimes we
-realize the challenge and "unknown" that was originally there when we began
-learning is gone. If music is not exciting for you anymore then we must find a
-way to make it exciting. Try writing a harmony to a piece, learning more about
-music theory or music history, expanding your musical knowledge and capability,
-or even taking up a new instrument!
-
-The bottom line is: when things seem to be getting mundane we must remember what
-inspired us in the first place and try to recapture that musical magic in new
-and exciting ways.
-
+<p>Music is emotional - it is fun and exciting. And so is playing an instrument! But let's face it, listening and playing are two completely different beasts. One is passive, the other is active, and it's not terribly difficult to fall out of habit when something requires work on our part (just ask my gym membership). The worst part is, it's not just scales and exercises that can become stale - it's the music we play as well.</p> 
+<p>Ask any touring musician how much they love playing their own songs when they're relaxing with their instrument. When you've played something to death then it's no longer new - and when it's no longer new it can be difficult to muster excitement.</p>
+<p>So, let's examine some ways that we can make music fun again:</p>
+<strong>1. Change it Up</strong>
+<p>The biggest thing you can do to shake up your musical world is to pick some new compositions to learn. If you've recently experience an emotional change in your life, whether it be in your career, relationships, or any other positive or negative shift, you may find that the same tunes just aren't doing it for you. That's <strong>completely normal.</strong> If you're a blues or rock musician, give jazz or classical music a shot. You never know what beautiful melodies you may hear that you mightn't have been listening for before (consciously or otherwise). If orchestral and symphonic sounds are usually more your cup of tea, ask around for some heavy metal recommendations. Many rock and metal musicians are extremely talented and music savvy people who employ various modes and melodies in unique and beautiful ways.</p>
+<strong>2. Record Yourself </strong>
+<p>Have you been picking up your instrument and running the same patterns over and over? Perhaps it's time to break out of that mould by adding a new layer of creativity! PC and tablet based home-recording has seen exponential growth in the last decade and for good reason: things are getting <i>so affordable</i>. Consider grabbing a USB interface that will allow you to plug directly in to your computer (or set a microphone up to record your instrument or voice). Then, playback what you've done and improvise a harmony line over it. You can practice soloing or write accompaniments for your own compositions. All of a sudden that boring lick you'd been noodling with on the couch for 3 months has turned into a completely different sonic experience.</p>
+<strong>3. Set Goals</strong>
+<p>It should come as no surprise that one of the most common reasons we become bored with our instruments is because the challenge lessens the more we play. In fact, it was a driving factor when we created PitchPlay - how could we make the process of working with and playing music fun and challenging again? With that in mind, set some new goals for yourself:</p>
+  <ul>
+    <li>Play scales at a fixed BPM (beats per minute) on your metronome. Too easy? <strong>Go faster.</strong></li>
+    <li>Compose a song. Been there done that? <strong>Try writing one per day for a month.</strong></li>
+    <li>Take up a new instrument.</li>
+  </ul>
+<p>That last one might not have been something you'd considered seriously - or perhaps it is, but you haven't pulled the trigger. Get out there, rent/borrow/buy a different instrument, and set to work figuring out how to become a stronger multi-instrumentalist.</p>
+<p>There is no magic bullet solution for solving your musical woes - ruts happen. But hopefully this post has given you some new ideas or a fresh mindset with which to approach your instrument. After all, we play music to enjoy it. That passion is likely still there, you just may need some help rediscovering it.</p>
 ----

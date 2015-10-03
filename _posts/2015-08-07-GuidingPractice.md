@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Guiding Practice"
+author: "Hayley MacLeod"
 categories: practice
 tags: [help, self-motivation]
 img: playing-piano.png
