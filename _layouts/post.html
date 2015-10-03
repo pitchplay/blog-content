@@ -5,13 +5,13 @@
   <section class="container">
     <div class="row">
       <div class="post-body col-xs-12 col-sm-8">
-        <img class="center-block img-responsive" src="/assets/img/{{ page.img }}" alt="Post Photo">
+        <img class="img-responsive" src="/assets/img/{{ page.img }}" alt="Post Photo">
         <h1>{{ page.title }}</h1>
         <h4>{{ page.date | date: "%B %-d, %Y" }} - by {{ page.author }}</h4>
         {{ content }}
       </div>
       <div class="col-xs-12 col-sm-4">
-        <h2>Recent Posts</h2>
+        <h2 class="post-recent">Recent Posts</h2>
         {% for post in site.posts revesed limit:8 %}
           [<time datetime="{{post.date | date_to_utc | date: "%Y-%m-%dT%H:%M:00Z"}}">{{post.date | date: "%y-%m-%d"}}</time>] <a href="{{ post.url }}">{{ post.title }}</a>
           <br>
