@@ -86,7 +86,7 @@ footer {
     height: 600px;
   }
 
-.post-body table, tr, td, th {
+.post-body table, .post-body tr, .post-body td, .post-body th {
   border: 1px solid black;
   padding: 5px;
 }
