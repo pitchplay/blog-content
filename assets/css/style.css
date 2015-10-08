@@ -85,3 +85,12 @@ footer {
     width: 300px;
     height: 600px;
   }
+
+.post-body table, .post-body tr, .post-body td, .post-body th {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.post-body table {
+  margin:10px 0 10px 0;
+}
