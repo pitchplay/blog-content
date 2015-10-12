@@ -94,3 +94,8 @@ footer {
 .post-body table {
   margin:10px 0 10px 0;
 }
+
+.post-body code {
+  background-color:#EAEAEA;
+  color:#000;
+}
