@@ -10,9 +10,9 @@ At its most basic definition, an interval is simply the distance between two not
 
 In music, we name these distances because intervals mean a lot to us and names help give things context. Let's start with an example.
 
-The C-Major scale, which is one of the first things musicians are often taught, goes: `C D E F G A B C`. It's an easy beginner scale because it doesn't incorporate any sharps or flats and, on the piano, is played all on the white keys. Many people also learn as children of *solfege*: `Do Re Mi Fa So La Ti Do`. Solfege is traditionally the singing of all notes (and therefore the intervals) of the C-Major scale.
+The C-Major scale, which is one of the first things musicians are often taught, goes: C D E F G A B C. It's an easy beginner scale because it doesn't incorporate any sharps or flats and, on the piano, is played all on the white keys. Many people also learn as children of *solfege*: Do Re Mi Fa So La Ti Do. Solfege is traditionally the singing of all notes (and therefore the intervals) of the C-Major scale.
 
-OK - I haven't actually talked about intervals yet. The most basic interval (and the interval that must exist in any equation) is the `root note`. The root note is the note that the scale or interval is based on -- in our above example, it's the first `C`. Technically speaking, the root note isn't an interval, but rather it is the anchor for other intervals. The interval distance from the root note to the root note (in other words, the same note twice) is referred to as a `unison` interval.
+OK - I haven't actually talked about intervals yet. The most basic interval (and the interval that must exist in any equation) is the root note. The root note is the note that the scale or interval is based on -- in our above example, it's the first C. Technically speaking, the root note isn't an interval, but rather it is the anchor for other intervals. The interval distance from the root note to the root note (in other words, the same note twice) is referred to as a unison interval.
 
 In the table below, I'll list each note in the C major scale and the named interval it represents in that scale.
 
@@ -27,9 +27,9 @@ In the table below, I'll list each note in the C major scale and the named inter
 |7            | B         | major seventh             |
 |8            | C         | octave / perfect eighth   |  
 
-As you can see, each interval name aligns with its position in the scale relative to the root (1) note. A `perfect fourth` is the fourth interval in the scale (again, including the root as 1).
+As you can see, each interval name aligns with its position in the scale relative to the root (1) note. A perfect fourth is the fourth interval in the scale (again, including the root as 1).
 
-Those are the notes that make up the `C-Major` scale, but of course they aren't "all" of the notes on a typical Western instrument. Here is a list (from `C` to `C`) of all intervals:
+Those are the notes that make up the C-Major scale, but of course they aren't "all" of the notes on a typical Western instrument. Here is a list (from C to C) of all intervals:
 
 |Note # | Note Name | Interval Name             |
 |---    |---        |-------------------------  |
@@ -47,13 +47,13 @@ Those are the notes that make up the `C-Major` scale, but of course they aren't 
 | 12    | B         | major seventh             |
 | 13    | C         | octave / perfect eighth   |
 
-You may be asking, "Why did you list the notes as flats instead of sharps"? In other words, why have I listed Db as the minor second instead of C# since they are the "same note"? See [enharmonic equivalents] for a background, but otherwise know this - `C#`/`Db` are the same pitch, but are referred to differently depending on the context. Clear as mud? Click the enharmonic link.
+You may be asking, "Why did you list the notes as flats instead of sharps"? In other words, why have I listed Db as the minor second instead of C# since they are the "same note"? See [enharmonic equivalents] for a background, but otherwise know this - C#/Db are the same pitch, but are referred to differently depending on the context. Clear as mud? Click the enharmonic link.
 
-Here is the easiest way to explain (and show) why we used `Db` in this case: The distance from C to D on a stave is one space. Therefore the distance between C and Db is also one space (though the note on the D line is flatted, obviously). If we used C# instead then both notes would both be on the C line and would not make sense spatially. So even though they sound the same, it is not "technically" correct. See the example below:
+Here is the easiest way to explain (and show) why we used Db in this case: The distance from C to D on a stave is one space. Therefore the distance between C and Db is also one space (though the note on the D line is flatted, obviously). If we used C# instead then both notes would both be on the C line and would not make sense spatially. So even though they sound the same, it is not "technically" correct. See the example below:
 
 ![Enharmonic Intervals](/assets/img/whatareintervals/enharmonic-intervals.png)
 
-If you're a guitarist, pianist, or just curious, then you may want to read our article [What Are Chords?] because chords are defined and built using intervals! As an example, the popular three-note `major chord` is made up of the `root`, `major third`, and `perfect fifth` intervals!
+If you're a guitarist, pianist, or just curious, then you may want to read our article [What Are Chords?] because chords are defined and built using intervals! As an example, the popular three-note major chord is made up of the root, major third, and perfect fifth intervals!
 
 [enharmonic equivalents]: https://en.wikipedia.org/wiki/Enharmonic
 [What Are Chords?]: /terminology/WhatAreChords
