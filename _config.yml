@@ -1,7 +1,7 @@
 permalink: /:categories/:title
 
 url: http://blog.pitchplay.io
-title: pitchplay | blog
+title: PitchPlay | Blog
 
 root: /
 markdown: kramdown
