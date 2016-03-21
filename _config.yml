@@ -4,8 +4,21 @@ url: http://blog.pitchplay.io
 title: pitchplay | blog
 
 root: /
-markdown: rdiscount
-highlighter: "pygments"
+markdown: kramdown
+highlighter: "rouge"
+
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
 
 paginate: 5
 paginate_path: "page:num"
+
+twitter:
+  username: pitchplayio
+
+facebook:
+  publisher: pitchplayio
