@@ -11,7 +11,7 @@ html, body {
 body { margin-bottom: 150px; background-color: ghostwhite; }
 
 h1 { font-size: 36px; }
-h2 { font-size: 26px; } 
+h2 { font-size: 26px; }
 
 header {
   background: url('/assets/img/bg.png');
@@ -89,7 +89,7 @@ footer {
 
 .post-body img {
   margin-top: 20px;
-  width: 100%;
+  max-width: 100%;
   height: auto;
 }
 
