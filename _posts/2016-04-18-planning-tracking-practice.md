@@ -33,10 +33,10 @@ or non-specific as you want.
 
 #### Step 2:
 Type - determine what type of exercise you will be working on.
-We have listed seven exercise types for you to choose from. If you are unsure of what type of exercise corresponds to what you are practicing, you can read the list below to determine which seems the most appropriate.![](/assets/img/2016-04-18/image3.png)
+We have listed seven exercise types for you to choose from. If you are unsure of what type the exercise you are practicing is, you can read the list below for some help.![](/assets/img/2016-04-18/image3.png)
 
 
-  - __Musicianship__ is anything that builds on the knowledge, skill, and artistic sensitivity in performing music.
+  - __Musicianship__ is anything that builds on knowledge, skill and artistic sensitivity in performing music.
 
     *Example: ear training exercises like rhythmic dictation, melodic dictation or interval identification*
   - __Technique__ is the ability to apply procedures or methods to effect a desired result.
@@ -62,16 +62,15 @@ Duration - set the length of time you would like to spend on the exercise.
 Instrument - enter in the instrument(s) that you practice. ![](/assets/img/2016-04-18/image4.png)
 
 #### Step 5:
-Notes - if you have any additional information that you would like
-to add or note about your practice such as small goals to accomplish, BPM, specific metres to work on, etc., note it here.
+Notes - if you have any information that you would like to note about your practice such as small goals, BPM, or specific metres to work on, note it here.
 
 ### Go Practice!
-Now that you have set yourself up, your dashboard may look something like mine and all that is left to do is to  __Go Practice__.
+Now that you have set yourself up, your Dashboard may look something like mine. All that is left to do is to  __Go Practice__.
 ![](/assets/img/2016-04-18/image5.png)
 
 ### Practice Canvas
 
-On the left hand side of your practice canvas (once you've clikced __Go Practice__ on the Dashboard) is the
+On the left hand side of your practice canvas (once you've clicked __Go Practice__ on the Dashboard) is the
 collapsable tracking of the exercises that you
 are aiming to complete during your practice session.
 
