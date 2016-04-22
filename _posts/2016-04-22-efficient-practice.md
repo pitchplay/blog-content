@@ -18,8 +18,8 @@ practice but it is often __mindless repetition__.
 
 
 ## The Autopilot Method
-Do you activate your autopilot system and __coast through__ your practices? This can happen
- when running through a piece or a set of tunes from beginning to end. Sometimes,
+Do you activate your autopilot system and __coast__ through your practices? This can happen
+when running through a piece or a set of tunes from beginning to end. Sometimes,
 you can't even recall playing through sections of particular pieces.
 
 ![](/assets/img/2016-04-22/autopilot.jpg){:width="75%"}
@@ -56,18 +56,18 @@ appropriately.
 ## Mistakes are Expensive
 
 Mistakes not only cost your time to repair but they risk your confidence in your abilities.
-Practicing should build you security in your performances. If you are making mistakes when you are
+Practicing should build you **security** in your performances. If you are making mistakes when you are
 practicing, it means
 that you are going too fast to learn the music or that your brain is tired. So, you need to
 slow down or take a break.
 
-## Efficient Practice
+## Practice Efficiently
 
 So, where will you be in two months if you can keep your brain actively engaged during practice sessions?
 What level will you achieve if you can maintain consistent practice and
 set small, manageable goals?
 
-Make your next practice sessions more efficient and you'll find out! To get started head over to [PitchPlay](https://pitchplay.io/).![](/assets/img/2016-04-22/perform.jpeg){:width="75%""}
+Make your next practice sessions more efficient and you'll find out! To get started, head over to [PitchPlay](https://pitchplay.io/).![](/assets/img/2016-04-22/perform.jpeg){:width="75%""}
 
 
 
