@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Efficient Practice"
+title: "Common Practice Habits and Why You Should Avoid Them"
 author: "Hayley MacLeod"
 categories: practice
 ---
 
 How do you get better at practicing? You can begin by analyzing the ways
-in which you have been practicing inefficiently. So, before we discover how to
+in which you have been practicing. So, before we discover how to
 make the most of your practice sessions, it is helpful to recognize some **common
 practice habits**.
 
@@ -67,8 +67,8 @@ So, where will you be in two months if you can keep your brain actively engaged 
 What level will you achieve if you can maintain consistent practice and
 set small, manageable goals?
 
-You'll be a lot further ahead than you are now!
+Make your next practice sessions more efficient and you'll find out! To get started head over to [PitchPlay](https://pitchplay.io/).![](/assets/img/2016-04-22/perform.jpeg){:width="75%""}
 
-![](/assets/img/2016-04-22/perform.jpeg){:width=50%}
+
 
 What do you think? [Tweet us](https://twitter.com/pitchplayio) or send us a message on [Facebook](https://www.facebook.com/pitchplayio/). We'd love to hear from you.
