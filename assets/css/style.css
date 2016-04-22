@@ -27,6 +27,11 @@ header {
   }
 }
 
+
+@media (min-width: 1200px) {
+  .container { width: 80%; }
+}
+
 nav {
   border-bottom: solid 1px transparent;
 }
