@@ -21,6 +21,10 @@ header {
   margin-bottom: 10px;
 }
 
+section + section {
+  margin-top: 20px;
+}
+
 @media (max-width: 600px) {
   header {
     padding: 0 5%;
