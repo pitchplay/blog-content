@@ -124,6 +124,23 @@ footer {
   color:#000;
 }
 
+.sidebar {
+  padding: 0 30px;
+}
+.about {
+  padding: 40px 0 10px 0;
+}
+
+.about p {
+  font-size: 16px;
+  font-weight: 200;
+  margin-bottom: 24px;
+}
+
+.about iframe {
+  margin-bottom: 5px;
+}
+
 .social {
   text-align: center;
 }

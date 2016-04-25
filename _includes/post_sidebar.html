@@ -1,0 +1,39 @@
+<section class='about'>
+  <p>
+  This blog is brought to you by the team behind <a href='https://pitchplay.io'>PitchPlay</a>.
+  We share love on music, practice and product developments.
+  </p>
+
+  <a href="https://twitter.com/PitchPlayIO" class="twitter-follow-button" data-show-count="false">Follow @PitchPlayIO</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+  <div class="fb-like" data-href="https://www.facebok.com/pitchplayio" data-layout="button" data-action="like" data-show-faces="false" data-share="true"></div>
+</section>
+
+<section>
+  <h2 class="post-recent">Recent Posts</h2>
+  {% for post in site.posts revesed limit:8 %}
+    [<time datetime="{{post.date | date_to_utc | date: "%Y-%m-%dT%H:%M:00Z"}}">{{post.date | date: "%y-%m-%d"}}</time>] <a href="{{ post.url }}">{{ post.title }}</a>
+    <br>
+  {% endfor %}
+</section>
+
+<section>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- Blog Sidebar -->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-5453837555955413"
+       data-ad-slot="3733432288"
+       data-ad-format="auto"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</section>
