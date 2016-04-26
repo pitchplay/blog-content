@@ -4,7 +4,7 @@ title: "Simplifying the 6 Tone Symmetrical Scale"
 author: "Hayley MacLeod"
 categories: scale
 ---
-Exotic scales open up new tonalities and patterns that can be explored on your instrument. The 6 tone symmetrical scale is an exotic scale with a particularly simple pattern that is easy to remember. This makes it very accessible to play.
+Exotic scales open up the opportunity for new tonalities and patterns to be explored on your instrument. The 6 tone symmetrical scale is an exotic scale with a particularly simple pattern that is easy to remember. This makes it very accessible to play.
 
 Have you ever been in a situation where you felt overwhelmed by a key, progression of chords or what other instrumentalists were doing? Being unfamiliar with your instrument can cause a type of musical paralysis that is preventable. The more familiar you can make yourself with different scales and scale patterns, the more familiar you will become with your instrument. You will decrease your chances of coming across something unfamiliar or musically intimidating.
 
@@ -19,7 +19,7 @@ There is no one note that the other notes within the scale are centered around. 
 The 6 tone symmetrical scale is also known as the __whole tone scale__ or the __hexatonic scale__.
 
 
-![](/assets/img/2016-04-25/octaveto6tones.svg){: width="75%"}
+![](/assets/img/2016-04-26/octaveto6tones.svg){: width="75%"}
 
 
 ## The Pattern
@@ -46,7 +46,7 @@ You can add the top C if you would like although it is not necessary. Remember t
 
 What does it sound like? Can you evoke the dreamy and blurred tonal quality that the scale is known for having?
 
-![](/assets/img/2016-04-25/guitar.jpeg){: width="75%"}
+![](/assets/img/2016-04-26/guitar.jpeg){: width="75%"}
 
 
 ## Played One, Played Them All (well, sort of!)
@@ -58,9 +58,9 @@ Now try starting the scale on a different note. For example, D-E-F#-G#-A#-C. Did
 
 In fact, there are only __two distinct__ whole tone (6 tone symmetrical) scales. Each consists of the alternate sets of 6 notes.
 
-![](/assets/img/2016-04-25/Csymmetricalscale.svg){: width="80%"}
+![](/assets/img/2016-04-26/Csymmetricalscale.svg){: width="80%"}
 
-![](/assets/img/2016-04-25/Dbsymmetricalscale.svg){: width="80%"}
+![](/assets/img/2016-04-26/Dbsymmetricalscale.svg){: width="80%"}
 
 *Confused? Keep in mind that the C# whole tone scale is the same as the Db whole tone scale. The two scales have different spellings of the same notes.*
 
