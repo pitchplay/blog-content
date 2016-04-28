@@ -125,7 +125,13 @@ footer {
 }
 
 .sidebar {
-  padding: 0 30px;
+  border-left: 1px solid #ccc;
+}
+.sidebar section {
+  padding: 10px 30px;
+}
+.sidebar section + section {
+  border-top: 1px solid #ccc;
 }
 .about {
   padding: 40px 0 10px 0;
