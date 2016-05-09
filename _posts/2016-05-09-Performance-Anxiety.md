@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Performance Anxiety"
+title: "Finally Overcoming Performance Anxiety"
 author: "Hayley MacLeod"
 categories: performance
 ---
@@ -9,7 +9,7 @@ Our fear of anxiety and our resourcefulness in attempting to deny or change the
 symptoms of anxiety results in an inner battle. The inner battle focuses almost
 solely on our anxiety instead of on our performance.
 
-![](/assets/img/2016-05-08/sadcello4.jpg){:width="100%"}
+![](/assets/img/2016-05-09/sadcello4.jpg){:width="100%"}
 
 __Performance anxiety is the body’s fight or flight response that kicks in when faced with a performance.__
 
@@ -65,7 +65,7 @@ Once gathered, imagine pushing it upwards. Release the energy through your hands
 
 __Allow any anxious feelings and or fear to be present within or around you, but do not let them concern you.__
 
-![](/assets/img/2016-05-08/happy.jpg){:width="100%"}
+![](/assets/img/2016-05-09/happy.jpg){:width="100%"}
 
 Remember, it is okay to feel anxious about a performance but, focusing on the anxiety is harmful. A lot of our feelings in regards to performance anxiety are [habitual responses](http://moodsmith.com/online-therapy-anxiety/) to a situation.
 
