@@ -9,6 +9,8 @@ Our fear of anxiety and our resourcefulness in attempting to deny or change the
 symptoms of anxiety results in an inner battle. The inner battle focuses almost
 solely on our anxiety instead of on our performance.
 
+![](/assets/img/2016-05-08/sadcello4.jpg){:width="100%"}
+
 __Performance anxiety is the body’s fight or flight response that kicks in when faced with a performance.__
 
 Although the symptoms and the severity of them vary for every individual, the most common ones are:
@@ -45,12 +47,12 @@ __Start directing your attention to the performance and move it away from the in
 Dr. David Carbonell, author of [anxietycoach.com](http://www.anxietycoach.com/) explains our tendency to engage in
 the inner battle and distract ourselves from our performances.
 
->> *"It [performance anxiety] stems from a tendency to resist and
-fight your anxiety, rather than to accept and work with it. [Performance anxiety] is like being
+>[Performance anxiety] stems from a tendency to resist and
+fight your anxiety, rather than to accept and work with it. It is like being
 heckled mercilessly during your performance, and getting into an argument with the heckler,
 except that it's your own mind doing the heckling. You get so involved in your internal struggle
 that you don't get involved with the actual performance. Most people with performance anxiety fright
-get tricked into focusing on themselves, struggling against anxiety in a vain effort to get rid of it."*
+get tricked into focusing on themselves, struggling against anxiety in a vain effort to get rid of it.
 
 
 ## The Performance
@@ -62,6 +64,8 @@ Before stepping out on stage, gather all of your energy. This includes the excit
 Once gathered, imagine pushing it upwards. Release the energy through your hands, eyes, mouth or the top of your head. Once the energy is released, you may still feel it but you should no longer fear it. That energy is your performance fuel. It will charge your performance with emotion and it will no longer drain you of your performance concentration. Now, direct all of your attention to the performance.
 
 __Allow any anxious feelings and or fear to be present within or around you, but do not let them concern you.__
+
+![](/assets/img/2016-05-08/happy.jpg){:width="100%"}
 
 Remember, it is okay to feel anxious about a performance but, focusing on the anxiety is harmful. A lot of our feelings in regards to performance anxiety are [habitual responses](http://moodsmith.com/online-therapy-anxiety/) to a situation.
 
