@@ -4,6 +4,8 @@ title: "2 New Tools and 2 New Features"
 author: "Hayley MacLeod"
 categories: pitchplay
 ---
+# New Tools
+
 ## Mirror
 
 Have you ever watched a video of yourself playing your instrument and recognized a bad habit you had not realized you
@@ -33,9 +35,11 @@ A bar will pop up on the bottom of your screen. To record, press the red button.
 
 ![](/assets/img/2016-05-13/recordbar.png){:width="100%"}
 
+# New Features
+
 ## Follow and Followers
 
-Do your friends practice? Follow them on PitchPlay to see their routines. 
+Do your friends practice? Follow them on PitchPlay to see their routines.
 
 
 ## Copying a Practice Routine
