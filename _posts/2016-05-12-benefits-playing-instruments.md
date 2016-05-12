@@ -10,7 +10,7 @@ For many years, people have believed that listening to classical music is benefi
 ![](/assets/img/2016-05-11/pianohands.jpeg){:width="100%"}
 
 
-*What are you waiting for? Check out the top 10 benefits of playing an instrument!*
+*What are you waiting for? Check out 10 benefits of playing an instrument!*
 
 
 ## 1) Increases Intelligence
