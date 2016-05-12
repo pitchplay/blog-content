@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10 Benefits of Playing an Instrument"
+title: "Top 10 Benefits of Playing an Instrument"
 author: "Hayley MacLeod"
 categories: instruments
 ---
