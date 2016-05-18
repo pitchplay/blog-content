@@ -4,7 +4,7 @@ title: "Mid-May Features Update"
 author: "Hayley MacLeod"
 categories: pitchplay
 ---
-Do you need more incentive to practice? Create a social network to help inspire you on PitchPlay. With an activity feed on your dashboard and the ability to follow and be followed, you'll find yourself more easily hitting your practice goals for the end of this month.
+Create a social network to help inspire you on PitchPlay. With an activity feed on your dashboard and the ability to follow and be followed, you'll find yourself more easily hitting your practice goals for the end of this month.
 
 ## Follow and Followers
 
@@ -32,9 +32,7 @@ The activity feed is one way you can stay up-to-date on what has been going on i
 
 ### Mirror
 
-Practicing in front of a mirror is a great way to recognize bad habits.
-
-Use our __mirror tool__ to keep your technique and posture on point. While in the practice canvas, you can click the camera icon along the top right row and enable your webcam.
+Practicing in front of a mirror is a great way to recognize bad habits. Use our __mirror tool__ to keep your technique and posture on point. While in the practice canvas, you can click the camera icon along the top right row and enable your webcam.
 
 ![](/assets/img/2016-05-13/mirror.png){:width="25%"}
 
