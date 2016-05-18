@@ -4,6 +4,7 @@ title: "Mid-May Features Update"
 author: "Hayley MacLeod"
 categories: pitchplay
 ---
+Do you need more incentive to practice? Create a social network to help inspire you on PitchPlay. With an activity feed on your dashboard and the ability to follow and be followed, you'll find yourself more easily hitting your practice goals for the end of this month.
 
 ## Follow and Followers
 
@@ -31,7 +32,7 @@ The activity feed is one way you can stay up-to-date on what has been going on i
 
 ### Mirror
 
-Have you ever watched a video of yourself playing your instrument and recognized a bad habit?
+Practicing in front of a mirror is a great way to recognize bad habits.
 
 Use our __mirror tool__ to keep your technique and posture on point. While in the practice canvas, you can click the camera icon along the top right row and enable your webcam.
 
@@ -58,4 +59,4 @@ A bar will pop up on the bottom of your screen. To record, press the red button.
 ![](/assets/img/2016-05-13/recordbar.png){:width="100%"}
 
 ---
-Are there any practice tools you feel are missing from your practice canvas? Let us know what tools you would like to see!
+Are there any practice tools you feel are missing from your practice canvas? What do you think about these additions? Let us know what tools you would like to see!
