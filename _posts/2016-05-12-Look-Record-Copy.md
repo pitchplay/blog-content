@@ -17,17 +17,15 @@ Copy your URL. Chances are it looks something like mine, only with your name:
 
 __[https://pitchplay.io/user/hayley-macleod](https://pitchplay.io/user/hayley-macleod)__
 
-Send your URL link to friends so that they can follow you. Once you receive a friend's URL link, you can go to their profile and follow them. For example, one of my friends sent me the link to her page here:
-
-![](/assets/img/2016-05-13/twiggy.png){:width="50%"}
-
-Once you've followed a friend, their activity will show up in your activity feed. If you are being followed by friends, your activity will show up in their activity feeds.
+Send your URL link to friends so that they can follow you. Once you receive a friend's URL link, you can go to their profile and follow them. Following a friend will enable their activity on PitchPlay to show up in your activity feed. If you are being followed by friends, your activity will show up in their activity feeds.
 
 ## Activity Feed
 
 The activity feed is one way you can stay up-to-date on what has been going on in PitchPlay's social world. You'll see when friends practice, follow and are followed. Additionally, you'll see your own practice sessions populating within your feed.
 
 ![](/assets/img/2016-05-13/activityfeed.png){:width="50%"}
+
+---
 
 ## <center> New Tools in Your Practice Canvas
 
@@ -40,7 +38,7 @@ Use our __mirror tool__ to keep your technique and posture on point. While in th
 ![](/assets/img/2016-05-13/mirror.png){:width="25%"}
 
 
-### Self-Recording
+### Self-Recorder
 
 It can be difficult to be analytical of your performance while you are playing. That's one of the reasons we added the __self-record tool__.
 
