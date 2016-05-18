@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "2 New Tools and 2 New Features"
+title: "Mid-May Features Update"
 author: "Hayley MacLeod"
 categories: pitchplay
 ---
-# New Tools
+# New Tools in Your Practice Canvas
 
 ## Mirror
 
