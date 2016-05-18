@@ -4,11 +4,11 @@ title: "Mid-May Features Update"
 author: "Hayley MacLeod"
 categories: pitchplay
 ---
-Create a social network to help inspire you on PitchPlay. With an activity feed on your dashboard and the ability to follow and be followed, you'll find yourself more easily hitting your practice goals for the end of this month.
+Do you need more incentive to practice? Create a social network to help inspire you on PitchPlay. With an activity feed on your dashboard and the ability to follow and be followed, you'll find yourself more easily hitting your practice goals for the end of this month.
 
 ## Follow and Followers
 
-Do your friends practice? Motivate and prepare to be motivated by following them on PitchPlay. Go to your profile, copy your URL and send it to friends.
+Motivate and prepare to be motivated by following your friends on PitchPlay. Go to your profile, copy your URL and send it to friends.
 
 To get to your profile, hover over your profile image on the far right of your screen and click __Profile__.
 
