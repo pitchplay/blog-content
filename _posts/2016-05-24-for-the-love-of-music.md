@@ -5,24 +5,34 @@ author: "Hayley MacLeod"
 categories: music
 ---
 
-Why do we love music and why does it make us feel so good? Feeling like music is one of those necessary ingredients to live life is not uncommon. In fact, determining why it is that humans spend so much time and energy on music has become a popular field of study by neuroscientists and psychologists. However, despite world-wide recognition of music as important to all individuals, the reason why humans invest so much time and energy into music is largely still a mystery. In their research, many scientists determine three main factors contributing to our love and enjoyment of music: intellectual, emotional and social.
+Why do we love music and why does it make us feel so good? Feeling like music is one of those necessary ingredients to live life is not uncommon. In fact, determining why humans spend so much time and energy on music has become a popular field of study.
+
+![](/assets/img/2016-05-25/headphones.jpg){:width="60%"}
 
 ## Music is an Intellectual Reward
 
-Music is an exercise for your whole brain. Within moments of hearing music, your brain works to associate it with music you've heard in the past. Musical templates stored in your brain hold information regarding the way a particular piece of music was previously processed. Analysis of the music, including recognizable patterns and themes, are stored along with your emotional response to the music. Therefore, when you hear a brand new song, your brain searches through past templates to find similarities. This contributes to your ability to not only predict patterns in a new song but also largely determines your emotional response to it.
+Music is an exercise for your whole brain. The brain gathers and stores information on every piece of music you hear. This information is stored on [musical memory templates](http://phenomena.nationalgeographic.com/2013/04/11/why-does-music-feel-so-good/). As soon as you hear music, your brain works to find connections to music you have heard in the past. Recognizable patterns, themes, and your emotional response to a piece of music are all stored on the memory templates.
+
+When you hear a new song, your brain tries to find similarities between the new song and other songs you know. Searching through its storage of past songs, the brain looks for similar melodic patterns or rhythms. If a similarity is found, the new song is compared to it. You will be able to better __predict patterns__ and __anticipate__ where the new song is going through these comparisons.  
+
+Additionally, our emotional response to new songs is determined by our musical memory templates. If a new song shares similarities to one you had an __emotional connection__ with in the past, you will feel a similar emotional connection to the new song.
 
 ## Neurochemical Bliss
 
-Depending on how new music relates to previous music templates your brain has stored influences your enjoyment or disappointment of the new material.
+Have you ever heard music referred to as "a natural drug of happiness?"
 
-Have you ever heard music referred to as a natural drug of happiness?
-
-This is because the brain's pleasure circuit is stimulated when we hear our favorite song. We receive an influx of feel good neurochemicals like dopamine. Scientifically speaking, the same reward responses received from sex and good food are also experienced with the music we love. Dopamine, the chemical released in our brain that is responsible for making us feel good causes a feeling of pleasure or satisfaction.
+When we hear our favorite song, an influx of feel good neuro-chemicals are found in our brain. Hearing the music we love results in a reward response and [dopamine](http://news.discovery.com/human/psychology/music-dopamine-happiness-brain-110110.htm) is released in the brain. Dopamine results in feelings of happiness and satisfaction. Like sex or your favorite food, listening to music you enjoy triggers the reward response.
 
 ## Music, The Social Badge
 
-Psychologists and neuroscientists have discovered that the songs we loved in our teenage years hold disproportionate  power over our emotions. Our brains bind us to the music that we heard as teenagers more tightly than to what we hear as adults. Some scientists believe that this is the result of the music from our teenage years being more fundamentally intertwined with our social lives than at any other point in our lives. As we discover who we are, we are relating our own lives to those of our friends. Listening to the same or similar music can be part of a representation of belonging to a particular social group. Music melds into our sense of identity.
+Psychologists and neuroscientists have discovered that our brains bind us to the music we listen to. This binding is more prevalent in our teenage years than during adulthood. Some scientists believe that this is the result of how __intertwined__ music is in our social lives as teenagers.
 
-Regardless of whether your passion resides in listening to or playing music, you are sure to have experienced an innate love for music. Despite our inability to pinpoint why music is loved world-wide, our appreciation and enjoyment of it has resulted in its prevalence within our societies and has contributed to the rise of music being recognized as a powerful tool in helping combat pain and depression. Whether or not music is your therapy, it is a large part of our lives.
+As teenagers, we discover who we are and we relate our own lives to those of our friends. Listening to the same or similar music as friends is representational of belonging to a particular social group.
 
-I'd love to hear about any intellectual, emotional or social effects that you've recognized music having over you. Start a conversation!
+*Music melds into our sense of identity.*
+
+![](/assets/img/2016-05-25/friends.jpg){:width="60%"}
+
+Although not completely understood, our love for music is ever prevalent. Furthermore, every individual’s connection to music is unique. Our love for music is rooted to our own experiences in different cultures and societies. The intellectual, emotional and social factors that connect us to music are different for every individual.
+
+I would love to hear about your experiences with discovering your love for music. Start a conversation!
