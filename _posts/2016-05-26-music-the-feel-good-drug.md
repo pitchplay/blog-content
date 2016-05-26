@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Music, The Feel Good Drug"
+title: "Music - The Feel Good Drug"
 author: "Hayley MacLeod"
 categories: music
 ---
@@ -23,13 +23,13 @@ Have you ever heard music referred to as "a natural drug of happiness?"
 
 When we hear our favorite song, an influx of feel good neuro-chemicals are found in our brain. Hearing the music we love results in a reward response and [dopamine](http://news.discovery.com/human/psychology/music-dopamine-happiness-brain-110110.htm) is released. Dopamine results in feelings of happiness and satisfaction. Like sex or your favorite food, listening to music you enjoy triggers the reward response.
 
-## Music, The Social Badge
+## The Social Badge
 
 Psychologists and neuroscientists have discovered that our brains [bind](http://www.slate.com/articles/health_and_science/science/2014/08/musical_nostalgia_the_psychology_and_neuroscience_for_song_preference_and.html) us to the music we listen to. This binding is more prevalent in our teenage years than during adulthood. Some scientists believe that this is the result of how __intertwined__ music is in our social lives as teenagers.
 
 As teenagers, we discover who we are and we relate our own lives to those of our friends. Listening to the same or similar music as friends is representational of belonging to a particular social group.
 
-*Music melds into our sense of identity.*
+#### *Music melds into our sense of identity.*
 
 ![](/assets/img/2016-05-25/friends.jpg){:width="60%"}
 
