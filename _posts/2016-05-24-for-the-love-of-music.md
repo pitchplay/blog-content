@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "For the Love of Music"
+title: "Music, The Feel Good Drug"
 author: "Hayley MacLeod"
 categories: music
 ---
@@ -21,11 +21,11 @@ Additionally, our emotional response to new songs is determined by our musical m
 
 Have you ever heard music referred to as "a natural drug of happiness?"
 
-When we hear our favorite song, an influx of feel good neuro-chemicals are found in our brain. Hearing the music we love results in a reward response and [dopamine](http://news.discovery.com/human/psychology/music-dopamine-happiness-brain-110110.htm) is released in the brain. Dopamine results in feelings of happiness and satisfaction. Like sex or your favorite food, listening to music you enjoy triggers the reward response.
+When we hear our favorite song, an influx of feel good neuro-chemicals are found in our brain. Hearing the music we love results in a reward response and [dopamine](http://news.discovery.com/human/psychology/music-dopamine-happiness-brain-110110.htm) is released. Dopamine results in feelings of happiness and satisfaction. Like sex or your favorite food, listening to music you enjoy triggers the reward response.
 
 ## Music, The Social Badge
 
-Psychologists and neuroscientists have discovered that our brains bind us to the music we listen to. This binding is more prevalent in our teenage years than during adulthood. Some scientists believe that this is the result of how __intertwined__ music is in our social lives as teenagers.
+Psychologists and neuroscientists have discovered that our brains [bind](http://www.slate.com/articles/health_and_science/science/2014/08/musical_nostalgia_the_psychology_and_neuroscience_for_song_preference_and.html) us to the music we listen to. This binding is more prevalent in our teenage years than during adulthood. Some scientists believe that this is the result of how __intertwined__ music is in our social lives as teenagers.
 
 As teenagers, we discover who we are and we relate our own lives to those of our friends. Listening to the same or similar music as friends is representational of belonging to a particular social group.
 
@@ -33,6 +33,6 @@ As teenagers, we discover who we are and we relate our own lives to those of our
 
 ![](/assets/img/2016-05-25/friends.jpg){:width="60%"}
 
-Although not completely understood, our love for music is ever prevalent. Furthermore, every individual’s connection to music is unique. Our love for music is rooted to our own experiences in different cultures and societies. The intellectual, emotional and social factors that connect us to music are different for every individual.
+Although not completely understood, our love for music is ever prevalent. Furthermore, every individual’s connection to music is unique. Our relationship with music is rooted to our experiences. The intellectual, emotional and social factors that connect us to music are different for every individual.
 
-I would love to hear about your experiences with discovering your love for music. Start a conversation!
+I would love to hear about your love for music! Why do you enjoy listening to the kind of music you listen to? What is your all-time favorite song and when did you first hear it?
