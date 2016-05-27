@@ -13,7 +13,7 @@ Why do we love music and why does it make us feel so good? Feeling like music is
 
 Music is an exercise for your whole brain. The brain gathers and stores information on every piece of music you hear. This information is stored on [musical memory templates](http://phenomena.nationalgeographic.com/2013/04/11/why-does-music-feel-so-good/). As soon as you hear music, your brain works to find connections to music you have heard in the past. Recognizable patterns, themes, and your emotional response to a piece of music are all stored on the memory templates.
 
-When you hear a new song, your brain tries to find similarities between the new song and other songs you know. Searching through its storage of past songs, the brain looks for similar melodic patterns or rhythms. If a similarity is found, the new song is compared to it. You will be able to better __predict patterns__ and __anticipate__ where the new song is going through these comparisons.  
+When you hear a new song, your brain tries to find similarities to other songs you know. Searching through its storage of past songs, the brain looks for similar melodic patterns or rhythms. If a similarity is found, the new song is compared to it. You will be able to better __predict patterns__ and __anticipate__ where the music through these comparisons.  
 
 Additionally, our emotional response to new songs is determined by our musical memory templates. If a new song shares similarities to one you had an __emotional connection__ with in the past, you will feel a similar emotional connection to the new song.
 
