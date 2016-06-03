@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Create Your Routine"
+title: "How to Create Your Practice Routine"
 author: "Hayley MacLeod"
 categories: pitchplay
 ---
