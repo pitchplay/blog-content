@@ -12,13 +12,13 @@ Have you ever used a map to get to your destination? Creating a practice routine
 
 ## Where Am I, Where Do I Want to Be?
 
-You know yourself better than I do! Take a moment and think about where you are and where you would like to be. It is important to know both point A and B. Otherwise, your journey, your practice session, has little to no direction. This will prevent you from feeling like you are improving.
+You know yourself better than anyone! Take a moment and think about where you are and where you would like to be. It is important to know both point A and B. Otherwise, your journey, your practice session, has little to no direction. This will prevent you from feeling like you are improving.
 
-## Variety is the Spice of ... My Routine?
+## Variety is the Spice of ... My Routine
 
 You wouldn’t go to the gym and workout the exact same group of muscles every day would you? Practicing your instrument is no different. Doing bicep curls every day won’t get you the body of your dreams. Why would you expect working on one thing with music would make you into the musician you always wanted to be?
 
-On __PitchPlay__, we’ve listed five different activity types to help you be the most fit you’ve ever been. Covering every single activity type each time you practice is counter-productive and exhausting. Trying to include two or three activity types helps you achieve a full body workout. Read more about the different activity types [here](http://blog.pitchplay.io/pitchplay/planning-tracking-practice).
+On [PitchPlay](https://pitchplay.io), we’ve listed five different activity types to help you be the most fit you’ve ever been. Covering every single activity type each time you practice is counter-productive and exhausting. Trying to include two or three activity types helps you achieve a full body workout. Read more about the different activity types [here](http://blog.pitchplay.io/pitchplay/planning-tracking-practice).
 
 
 #### *Try this 3-step process to build your practice routine today.*
@@ -37,7 +37,7 @@ Getting to ‘point B’ is your target while practicing and the routine you bui
 
 Creating your own exercises allows you to apply your own creativity. This kind of creativity moves you closer to your own unique voice. By always doing someone else’s exercises, you are moving in someone else's direction.
 
-Sometimes it helps to draw ideas from other people but creating your own exercises will take you to where you want to go. On __PitchPlay__ you can write yourself a reminder as to how the exercise relates to getting you to where you want to be. Seeing notes in your practice canvas works to keep you on track and helps you avoid mindless practicing.
+Sometimes it helps to draw ideas from other people but creating your own exercises will take you to where you want to go. On [PitchPlay](https://pitchplay.io) you can write yourself a reminder as to how the exercise relates to getting you to where you want to be. Seeing notes in your practice canvas works to keep you on track and helps you avoid mindless practicing.
 
 ![](/assets/img/2016-06-02/notes.png){:width="75%"}
 
