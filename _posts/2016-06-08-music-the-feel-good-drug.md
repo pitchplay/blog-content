@@ -35,4 +35,4 @@ As teenagers, we discover who we are and we relate our own lives to those of our
 
 Although not completely understood, our love for music is ever prevalent. Furthermore, every individual’s connection to music is unique. Our relationship with music is rooted to our experiences. The intellectual, emotional and social factors that connect us to music are different for every individual.
 
-I would love to hear about your love for music! Why do you enjoy listening to the kind of music you listen to? What is your all-time favorite song and when did you first hear it?
+Do you know someone that doesn't enjoy music? Do you find them harder to relate to?
