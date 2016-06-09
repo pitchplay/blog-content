@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Create Your Practice Routine"
+title: "A Map Quest: Creating Your Practice Routine"
 author: "Hayley MacLeod"
 categories: pitchplay
 ---
