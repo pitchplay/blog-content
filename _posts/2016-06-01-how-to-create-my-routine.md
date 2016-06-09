@@ -5,7 +5,7 @@ author: "Hayley MacLeod"
 categories: pitchplay
 ---
 
-Any lost traveller loves a good map. Creating a practice routine is like being guided by a good map through a foreign city. You begin by determining where you are (point A) and then, discover where you want to get to (point B). However, we aren't all cartographers. It's just as easy to get lost planning a practice as it is to get lost when following a map. Knowing the easiest way to get from point A to B will keep you on track.
+Any lost traveller loves a good map. Creating a practice routine is like being guided by a good map through a foreign city. You begin by determining where you are (point A) and then, discover where you want to get to (point B). But, we aren't all cartographers. It's just as easy to get lost planning a practice as it is to get lost when following a map. Knowing the easiest way to get from point A to B will keep you on track.
 
 ![](/assets/img/2016-06-02/map.jpg){:width="75%"}
 
@@ -15,9 +15,9 @@ You know yourself better than anyone! Take a moment and think about where you ar
 
 ## Variety is the Spice of ... My Routine
 
-Sometimes you want to take the scenic route. You get to the same destination but the route you take to get there is completely different. The same can be said about practicing your instrument. Working on the __same things__ day after day will not make you into the musician you always wanted to be.
+Sometimes you want to take the scenic route. You will get to the same destination but the route you take to get there is completely different. The same can be said about practicing your instrument. Working on the __same things__ in the __same way__ day after day will not make you into the musician you always wanted to be.
 
-On [PitchPlay](https://pitchplay.io) we've listed five activity types that will keep your time playing your instrument interesting. Remember, there's only so much you can get done in a practice session. Doing every type of activity can be counter-productive. Trying to include two or three activity types helps you remain engaged.
+On [PitchPlay](https://pitchplay.io) we've listed five types of activities that will keep your time playing your instrument interesting. Remember, there's only so much you can get done in one practice session. Doing every type of activity can be counter-productive. Trying to include two or three types of activities will help you remain engaged.
 
 Read more about the different activity types [here](http://blog.pitchplay.io/pitchplay/planning-tracking-practice).
 
@@ -30,7 +30,7 @@ Make time. You can not practice without setting aside some time specifically tar
 
 #### Step 2:
 
-Getting to 'point B' is your target while practicing and the routine you build will help you get there. Create your own exercises. The options are endless and there are only two things to keep in mind:
+Getting to 'point B' is your target while practicing and the routine you build will help you get there. The options are endless and there are only two things to keep in mind:
 
 1) Will this move me towards 'point B?'
 
@@ -46,7 +46,7 @@ Sometimes it helps to draw ideas from other people but creating your own exercis
 
 Create another exercise and then another one! I'll often create my exercises out of my repertoire. I use the pitches on the page with different rhythms, articulations or in different sequences to try and achieve what I want.
 
-## So What Does It All Look Like?
+## So, What Does It All Look Like?
 
 Here's an example of a routine I created last night.
 
@@ -66,14 +66,14 @@ When working on technique I remind myself to stay focused specifically on a sing
 - play the first note and sing the second
 - test to ensure proper interval is achieved
 
-Knowing what intervals sound like and being able to sing them or hear them in your head will improve your pitch accuracy and build your overall musicianship skills.
+Knowing what intervals sound like and being able to sing or hear them in your head will improve your pitch accuracy and build your overall musicianship skills.
 
 #### Exercise 3: Slow Accuracy (*Repertoire*)
 - set metronome to BPM = 52
 - play difficult passage with slow metronome
 - listen for, consistent tonality
 
-Even though 'Repertoire' indicates an entire piece of music, I'm focusing my practice on something specific to ensure my improvement. Once I achieve consistent sound at a slow speed, I'll bump up the metronome a couple notches and begin looking for the same things.
+Despite 'Repertoire' indicating an entire piece of music, I'm focusing my practice on something specific to ensure my improvement. Once I achieve a consistent sound at a slow speed, I'll bump up the metronome a couple notches and begin looking for that same consistency.
 
 ![](/assets/img/2016-06-02/dashboard.png){:width="75%"}
 
