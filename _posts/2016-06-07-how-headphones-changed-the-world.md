@@ -4,31 +4,32 @@ title: "How Headphones Changed The World"
 author: "Hayley MacLeod"
 categories: music
 ---
-Did you know that headphones were originally created to help listeners hear a quiet and concentrated piece of music. Interestingly enough, this differs largely from the original purpose that music has held within our societies and cultures. Largely an aspect of social gathering and bonding, through headphones, music has become an single, independent and intimate experience.
+Did you know that headphones were originally created to help listeners hear a quiet and concentrated piece of music. Interestingly enough, this differs largely from the purpose that music has held within our societies for centuries. Largely an aspect of social gathering and bonding, through headphones, music has become a single, independent and intimate experience. Headphones are changing music's role and function within our societies around the world.
 
-So what you might say? Could there really be a larger impact than more independent music listeners? Well, scientists are studying those very facts right now and they are coming across some interesting things. It is possible that headphones are actually creating bubbles around the wearers, disconnecting them from the social world they live in and transporting them to their own little world. The new way to say "I'm here, but I'm not present."
+## Here But Not Present
 
-So, what is the impact of wearing headphones in the workplace. It is actually a heated mattter of debate with co-workers arguing for headphones and students wearing headphones in libraries, study halls and anywhere you can catch them with their nose in a book or eyes on a screen. But is it helping or hindering them? Well, there is actually scientific evidence that states that listening to music or other audio while working or studying negatively impacts concentration, productivity and memory recall. All of these studies tell us that we can be higher functioning and more productive individuals without our headphones so why then do we always tend to reach for them when it is time to bunker down and pump out some work? Largely, it is the fact that in a public space, which work and often the areas we study are, it creates a feeling of oasis. You can drone out the hustle and bustle of the rest of the world. Do it enough and it becomes habit. Suddenly being at home alone and throwing in headphones avoids the loneliness you might otherwise feel without your constant backing track reminder that you aren't alone.
+Headphones, scientists claim, are creating bubbles around the wearers, disconnecting them from the social world they live in and transporting them to their own little world. To everyone around us, wearing headphones has become the new way to say,
 
-So, maybe they help you get things done but maybe not.
+#### *I'm here, but I'm not present.*
 
-In a work environment, workplaces are often designed to be open floors for conducting discussion, etc. but they are not copesthetic for creative thinking or deep thought. Therefore, sometimes creating your own bubble can be helpful. Headphones can help you do this. Be intelligent about it, keep the volume at a resonable level, don't allow it to impact your safety.
+## Achieving Sanctuary
 
-Headphones allow you to set the expectation that you are in a work-zone, you are less likely to be distracted by others. It can serve to pump up your energy and mood. Prevent distractions and interruptions. Let your music elliminate distractions and keep you on task.
+[Studies](http://graphics8.nytimes.com/packages/pdf/business/LESIUKarticle2005.pdf?version=meter+at+1&module=meter-Links&pgtype=article&contentId=&mediaId=&referrer=https%3A%2F%2Fwww.google.ca%2F&priority=true&action=click&contentCollection=meter-links-click) suggest that listening to music while at work can be responsible for positive mood changes and increased quality of work. Perhaps you already know this and it is the very reason why you find yourself reaching for headphones during a stressful work or study day.
 
-Perpetually distracted by music. Wearing headphones at work if solitary and repetitive, listening won't effect accuracy and you can still readily hear what is going on around you. Don't wear for excessively long periods of time or all day. Resentment among peers who can't wear them.  Ear plugs can blunt distractions and sharpen your focus.
+When your co-worker is discussing his weekend plans and you are focusing on the task at hand but you can't help in being drawn towards his interesting social life, you reign in your focus by creating your bubble. Headphones allow you to set the expectation that you are in a work-zone, you are less likely to be distracted by others. Yet, there are many arguments against listening to music while at work. Does music positively or negatively impact your productivity and concentration?
+
+## Myth or Fact
+
+Well, it's actually both true and untrue that music can have negative impacts on an individual's functioning capacity.
+
+Music can be beneficial to motivate and keep your mood high particularly when the task at hand is repetitive or mindless. During this case, music is motivational. It will keep you moving forward.
+
+But, music can easily be a distraction. Scientific evidence states that we are more productive and higher functioning individuals without music or audio stimulation while working or studying. Listening to music while working or studying has a negative impact on an individual's concentration, productivity and memory recall.
+
+ In a work environment where the workplace is designed for open floors where discussion can be freely conducted, the creative or deep thinker becomes impaired by such distractions. In these times, creating your own bubble can be helpful. Headphones can help you do this. Be intelligent about it, keep the volume at a resonable level, don't allow it to impact your safety. Remember, ear plugs can blunt distractions and sharpen your focus as they won't further distract you.
 
 Most younger people wear headphones about half of the time while they are working and they have chat windows open throughout the day. They felt far more connected with people outside their workplaces than their own co-workers. Making us more than ever all-alone and missing out on opportunities to contribute. Some people wearing headphones actually feel more anxious. This concern is right on track with understanding what is wrong with wearing headphones. so much success is generated by overhearing details and collective news passing through the office, company spirits are formed by participating in these spirits. Information exchange is so important - those missing opportunities to create relationships with ideas and those jobs within...huge loss of career development.
 
-You misout on hearing conversations, ideas, collective knowledge basis, erode employee cohesiveness.
+You miss out on hearing conversations, ideas, collective knowledge basis, erode employee cohesiveness.
 
-Should be encouraged to work alone when creativity or high productivity is at the forefront. Instant messaging is also not the worst thing but you need protocols that avoid isolation. Too much personal bubbles create a lonely crowd. We need to be open to and understand great work envivonments with multi-lunches, sports, lots of communication, walk around, etc. 
-
-MAIN IDEA
-Headphones create privacy in hearing music and is slightly changing the world. Music was a social bonding experience. Not anymore. How has using headphones changed our social and workplace behaviour?
-
-Headphones in the workplace: studies - why we still use them.
-
-Original purpose for headphones and today's intention
-
-More solitude. Influences mood.
+Should be encouraged to work alone when creativity or high productivity is at the forefront. Instant messaging is also not the worst thing but you need protocols that avoid isolation. Too much personal bubbles create a lonely crowd. We need to be open to and understand great work envivonments with multi-lunches, sports, lots of communication, walk around, etc.
