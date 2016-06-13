@@ -1,19 +1,28 @@
 {% include head.html %}
 <body>
-{% include header.html %}
+  {% include header.html %}
   <section class="container">
     <div class="row">
       <div class="col-xs-12 col-sm-8">
-        <!-- <div class="adsense-header img-responsive"></div> -->
-        <ul class="post-list">
-          {% for post in site.posts %}
-          <li>
-            <a class="post-list-title" href="{{ post.url }}">{{ post.title }}</a>
-            <p> {{ post.content | strip_html | truncatewords:80 }}</p>
-            <a href="{{ post.url }}">Read More...</a>
-          </li>
-          {% endfor %}
-        </ul>
+        {% for post in site.posts %}
+        {% assign li = forloop.index0 | modulo: 2 %}
+        {% if li == 0 or forloop.first %}
+        <div class="row">
+          {% endif %}
+          <div class='col-xs-6'>
+          <img width="100%" height="100px" src="{{ post.header }}">
+            <div class='col-xs-12 post-preview'>
+              <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+              <p> {{ post.content | strip_html | truncatewords:50 }}</p>
+              <div class='text-right'>
+                <a href="{{ post.url }}">Read More...</a>
+              </div>
+            </div>
+          </div>
+          {% if li == 1 or forloop.last %}
+        </div>
+        {% endif %}
+        {% endfor %}
       </div>
       <div class="col-xs-12 col-sm-4 sidebar">
         {% include post_sidebar.html %}
@@ -21,35 +30,35 @@
         <!--<section class='category-selection'>
           <h3>Categories</h3>
           <ul>
-            {% assign tags_list = site.categories %}
-              {% if tags_list.first[0] == null %}
-                {% for tag in tags_list %}
-                  <li><a href="{{ tag }}">{{ tag | capitalize }}</a></li>
-                {% endfor %}
-              {% else %}
-                {% for tag in tags_list %}
-                  <li><a href="{{ tag[0] }}">{{ tag[0] | capitalize }}</a></li>
-                {% endfor %}
-              {% endif %}
-            {% assign tags_list = nil %}
+          {% assign tags_list = site.categories %}
+          {% if tags_list.first[0] == null %}
+          {% for tag in tags_list %}
+          <li><a href="{{ tag }}">{{ tag | capitalize }}</a></li>
+          {% endfor %}
+          {% else %}
+          {% for tag in tags_list %}
+          <li><a href="{{ tag[0] }}">{{ tag[0] | capitalize }}</a></li>
+          {% endfor %}
+          {% endif %}
+          {% assign tags_list = nil %}
           </ul>
-        </section>-->
+          </section>-->
 
-        <section>
-          <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-          <!-- Blog Sidebar -->
-          <ins class="adsbygoogle"
-               style="display:block"
-               data-ad-client="ca-pub-5453837555955413"
-               data-ad-slot="3733432288"
-               data-ad-format="auto"></ins>
-          <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
-          </script>
-        </section>
+          <section>
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- Blog Sidebar -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-5453837555955413"
+                 data-ad-slot="3733432288"
+                 data-ad-format="auto"></ins>
+            <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+          </section>
       </div>
     </div>
   </section>
-{% include footer.html %}
+  {% include footer.html %}
 </body>
 </html>
