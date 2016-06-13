@@ -6,9 +6,9 @@ html {
 }
 html, body {
   font-family: 'Open Sans', sans-serif;
-  background-color: ghostwhite;
+  background-color: white; 
 }
-body { margin-bottom: 150px; background-color: ghostwhite; }
+body { margin-bottom: 150px; background-color: white; }
 
 h1 { font-size: 36px; }
 h2 { font-size: 26px; }
@@ -46,7 +46,7 @@ footer {
   bottom: 0;
   width: 100%;
   padding: 20px;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid rgba(0,0,0,.12);
 }
 
 .blog-header {
@@ -79,19 +79,6 @@ footer {
     margin-top: 40px;
   }
 
-.post-list {
-  list-style-type: none;
-  padding: 0;
-  margin-top: 10px;
-}
-.post-list li {
-  margin-top: 20px;
-}
-
-.post-list-title {
-  font-size: 2em;
-}
-
 .post-body h4 {
   margin-bottom: 20px;
 }
@@ -111,7 +98,7 @@ footer {
 }
 
 .post-body table, .post-body tr, .post-body td, .post-body th {
-  border: 1px solid black;
+  border: 1px solid rgba(0,0,0,.12);
   padding: 5px;
 }
 
@@ -125,7 +112,7 @@ footer {
 }
 
 .sidebar {
-  border-left: 1px solid #ccc;
+  border-left: 1px solid rgba(0,0,0,.12);
 }
 .sidebar section {
   padding: 10px 30px;
@@ -213,3 +200,10 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+.post-preview {
+  border: 1px solid rgba(0,0,0,.12);
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+.post-preview h2 a { color: rgba(0,0,0,.87); }
