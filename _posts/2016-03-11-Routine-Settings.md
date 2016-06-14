@@ -3,14 +3,13 @@ layout: post
 title: "Personalize your Practice"
 author: "Hayley MacLeod"
 categories: pitchplay
-Header: ![](/assets/img/blog-headers/personalizepractice.png)
 ---
 
 You have the ability to refine and personalize your practice.
-Set your **preferences** for the difficulty and intensity you would like to practice.
+Set your **preferences** for the difficulty and intensity you would like to practice. 
 
-Are things too difficult? Or Would you like to set a heavier pace for yourself?
-No problem! You can edit your settings any time.
+Are things too difficult? Or Would you like to set a heavier pace for yourself? 
+No problem! You can edit your settings any time. 
 
 Change your Settings
 --------------------
