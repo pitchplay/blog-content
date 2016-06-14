@@ -3,7 +3,7 @@ layout: post
 title: "Music - The Feel Good Drug"
 author: "Hayley MacLeod"
 categories: music
-Header: ![](/assets/img/blog-headers/musicdrug.png)
+header: /assets/img/blog-header-images/musicdrug.png
 ---
 
 Why do we love music and why does it make us feel so good? Feeling like music is one of those necessary ingredients to live life is not uncommon. In fact, determining why humans spend so much time and energy on music has become a popular field of study.
