@@ -3,7 +3,6 @@ layout: post
 title: "Plan and Track your Practice"
 author: "Hayley MacLeod"
 categories: pitchplay
-Header: ![](/assets/img/blog-headers/planningandtracking.png)
 ---
 
 Start tracking and planning your practices. No need for pen
