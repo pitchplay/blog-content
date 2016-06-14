@@ -3,7 +3,7 @@ layout: post
 title: "Mid-May Features Update"
 author: "Hayley MacLeod"
 categories: pitchplay
-Header: ![](/assets/img/blog-header-images/midmayfeatures.png)
+header: /assets/img/blog-header-images/midmayfeatures.png
 ---
 Do you need more incentive to practice? Create a social network to help inspire you on PitchPlay. With an activity feed on your dashboard and the ability to follow and be followed, you'll find yourself more easily hitting your practice goals for the end of this month.
 

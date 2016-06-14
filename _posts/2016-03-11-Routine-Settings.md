@@ -3,7 +3,7 @@ layout: post
 title: "Personalize your Practice"
 author: "Hayley MacLeod"
 categories: pitchplay
-Header: ![](/assets/img/blog-header-images/personalizepractice.png)
+header: /assets/img/blog-header-images/personalizepractice.png
 ---
 
 You have the ability to refine and personalize your practice.
