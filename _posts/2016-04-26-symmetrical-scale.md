@@ -3,6 +3,7 @@ layout: post
 title: "Simplifying the 6 Tone Symmetrical Scale"
 author: "Hayley MacLeod"
 categories: scale
+Header: ![](/assets/img/blog-headers/symmetricalscale.png)
 ---
 Exotic scales open up the opportunity for new tonalities and patterns to be explored on your instrument. The 6 tone symmetrical scale is an exotic scale with a particularly simple pattern that is easy to remember. This makes it very accessible to play.
 

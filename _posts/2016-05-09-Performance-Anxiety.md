@@ -3,6 +3,7 @@ layout: post
 title: "Finally Overcoming Performance Anxiety"
 author: "Hayley MacLeod"
 categories: performance
+Header: ![](/assets/img/blog-headers/performanceanxiety.png)
 ---
 
 Our fear of anxiety and our resourcefulness in attempting to deny or change the

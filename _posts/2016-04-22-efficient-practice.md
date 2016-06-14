@@ -3,6 +3,7 @@ layout: post
 title: "Common Practice Habits and Why You Should Avoid Them"
 author: "Hayley MacLeod"
 categories: practice
+Header: ![](/assets/img/blog-headers/efficientpractice.png)
 ---
 
 How do you get better at practicing? You can begin by analyzing the ways
