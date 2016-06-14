@@ -3,6 +3,7 @@ layout: post
 title: "A Map Quest: Creating Your Practice Routine"
 author: "Hayley MacLeod"
 categories: pitchplay
+Header: ![](/assets/img/blog-headers/maproutine.png)
 ---
 
 Any lost traveller loves a good map. Creating a practice routine is like being guided by a good map through a foreign city. You begin by determining where you are (point A) and then, discover where you want to get to (point B). But, we aren't all cartographers. It's just as easy to get lost planning a practice as it is to get lost when following a map. Knowing the easiest way to get from point A to B will keep you on track.

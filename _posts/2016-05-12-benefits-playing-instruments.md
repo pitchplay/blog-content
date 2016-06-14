@@ -3,6 +3,7 @@ layout: post
 title: "Top 10 Benefits of Playing an Instrument"
 author: "Hayley MacLeod"
 categories: instruments
+Header: ![](/assets/img/blog-headers/benefitstoplaying.png)
 ---
 
 For many years, people have believed that listening to classical music is beneficial for the mental development of a child’s brain. Did you know that learning a musical instrument not only positively alters the mental development of a child, but also of an adult? Positive physical, emotional and cognitive changes are found in the brains of all instrumentalists.
