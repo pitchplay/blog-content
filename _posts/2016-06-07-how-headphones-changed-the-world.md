@@ -3,7 +3,7 @@ layout: post
 title: "How Healthy is Your Relationship with Your Headphones?"
 author: "Hayley MacLeod"
 categories: music
-header: (/assets/img/2016-06-10/love.jpg)
+header: /assets/img/2016-06-10/love.jpg
 ---
 Headphones were created to help listeners hear a quiet and concentrated piece of music. This differs from the role that music has held within our societies for centuries. To an individual, music was once an aspect of __social gathering__ and __bonding__. Through headphones, music is a __single__, independent and __intimate experience__.
 
