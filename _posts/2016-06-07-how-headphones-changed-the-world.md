@@ -5,7 +5,7 @@ author: "Hayley MacLeod"
 categories: music
 header: (/assets/img/2016-06-10/love.jpg)
 ---
-Headphones were created to help listeners hear a quiet and concentrated piece of music. This differs from the purpose that music has held within our societies for centuries. To an individual, music was once an aspect of __social gathering__ and __bonding__. Through headphones, music is a __single__, independent and __intimate experience__.
+Headphones were created to help listeners hear a quiet and concentrated piece of music. This differs from the role that music has held within our societies for centuries. To an individual, music was once an aspect of __social gathering__ and __bonding__. Through headphones, music is a __single__, independent and __intimate experience__.
 
 ## Here But Not Present
 
@@ -17,7 +17,7 @@ Headphones create [bubbles](http://www.queensjournal.ca/story/2007-01-23/bubbles
 
 ## Achieving Sanctuary
 
-This headphone isolation effect seems like a step backwards. Yet, despite our abilities to connect with one another hampered by wearing headphones, the head gear has a few proven benefits.
+This headphone isolation effect seems like a step backwards. Our abilities to connect with one another is hampered by wearing headphones. However, the head gear has a few proven benefits.
 
 [Studies](http://graphics8.nytimes.com/packages/pdf/business/LESIUKarticle2005.pdf?version=meter+at+1&module=meter-Links&pgtype=article&contentId=&mediaId=&referrer=https%3A%2F%2Fwww.google.ca%2F&priority=true&action=click&contentCollection=meter-links-click) suggest that listening to music at work can result in positive mood changes and increased quality of work. Perhaps you already know this and it is why you find yourself reaching for your headphones on a stressful day.
 
