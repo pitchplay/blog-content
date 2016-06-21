@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Math in Music"
+title: "Music and Math"
 author: "Hayley MacLeod"
 categories: theory
 header: /assets/img/2016-06-17/equation
