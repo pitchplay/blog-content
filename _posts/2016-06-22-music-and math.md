@@ -2,7 +2,7 @@
 layout: post
 title: "Music and Math"
 author: "Hayley MacLeod"
-categories: theory
+categories: pitchplay
 header: /assets/img/2016-06-17/equation
 ---
 
@@ -30,7 +30,7 @@ The __quarter note__ is 1/4 of the value of the whole note and 1/2 the value of 
 
 Rhythmic context can differ from piece to piece. On YouTube you can listen to five different covers of the same song and each song could be a different length. Although they would all be relatable to the original, the speed of each song would be different. So, the rhythmic context of each performance is different.
 
-### Time Signature
+## Time Signature
 
 The time signature is composed of two numbers and is often thought of as a fraction. Despite not actually being a fraction, when determining the rhythm from a written piece of music, looking at the time signature as a fraction is helpful.
 
