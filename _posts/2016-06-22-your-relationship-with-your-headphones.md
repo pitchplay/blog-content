@@ -9,7 +9,7 @@ Headphones were created to help listeners hear a quiet and concentrated piece of
 
 ## Here But Not Present
 
-Headphones create [bubbles](http://www.queensjournal.ca/story/2007-01-23/bubbles-sound-public-space/) around the wearers. These "bubbles" transport wearers to their own inclusive space. Headphones have become one way to say:
+Headphones create [bubbles](http://www.queensjournal.ca/story/2007-01-23/bubbles-sound-public-space/) around the wearers. These "bubbles" transport wearers to their own inclusive space. Headphones have become the way to say:
 
 #### *I'm here, but I'm not present.*
 
@@ -17,7 +17,7 @@ Headphones create [bubbles](http://www.queensjournal.ca/story/2007-01-23/bubbles
 
 ## Achieving Sanctuary
 
-This headphone isolation may seem like a backwards social step. However, the ability to isolate ourselves from the very loud and fast-paced world around us may be the very thing needed to increase our productivity and concentration in the workplace.
+This headphone isolation may seem like a social step backwards. However, the ability to isolate ourselves from the very loud and fast-paced world around us may be the very thing needed to increase our productivity and concentration in the workplace. If the conditions are right, with music in your headphones and engaging work to be completed, your consciousness enters a state called [flow](http://www.pickthebrain.com/blog/how-to-achieve-the-creative-state-of-flow/). Completing tasks becomes enjoyable and satisfying in a state of "flow."
 
 [Studies](http://graphics8.nytimes.com/packages/pdf/business/LESIUKarticle2005.pdf?version=meter+at+1&module=meter-Links&pgtype=article&contentId=&mediaId=&referrer=https%3A%2F%2Fwww.google.ca%2F&priority=true&action=click&contentCollection=meter-links-click) suggest that listening to music at work can result in positive mood changes and an increased quality of work. Perhaps you already know this and it is why you find yourself reaching for your headphones on a stressful day.
 
@@ -31,12 +31,8 @@ Although you may only think of the *feel goods* when you reach for your music, m
 
 However, studies that pit headphones and productivity against one another often make little to no distinction between the distracting qualities of music versus the distracting qualities of general audio stimulation.  
 
-This is an important distinction to make because the office noise around you is typically more distracting than your music. This rings particularly true when stress associated with office noises can lead to increased levels of [cortisol](https://rise.xyz/blog/music-at-work-productivity/) in the body. When cortisol hormone levels rise, the brain’s high functioning planning and reasoning is effected. Your ability to carry out your work to the best of your ability is compromised.
+This is an important distinction to make because the office noise around you is typically more distracting than your music. This rings particularly true when stress associated with office noises can lead to increased levels of [cortisol](https://rise.xyz/blog/music-at-work-productivity/) in the body. When cortisol hormone levels rise, the brain’s high functioning planning and reasoning is effected. Your ability to carry out the tasks at hand becomes compromised.
 
 ![](/assets/img/2016-06-10/headphones.jpg){:width="60%"}
 
 If you find your stress levels spike due to surrounding office noises, consider balancing your brain with some [dopamine](http://blog.pitchplay.io/music/music-the-feel-good-drug). In other words, it may be time to talk to your employer about the benefits of getting out your headphones.
-
-________________
-
-Does your employer allow you to wear headphones?
