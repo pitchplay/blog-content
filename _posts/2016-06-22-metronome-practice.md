@@ -14,7 +14,7 @@ Rhythm is often under-rated both in practice and teaching. A strong sense of rhy
 
 #### Finding the Beat
 
-The beat of a song is like the tick-tock of a clock. Finding the beat in a song is like listening for the sound of a clock within a room. You may not feel like you can hear it until you focus on the sound. Listen to a [song](https://www.youtube.com/watch?v=DohRa9lsx0Q&list=PLK9Sc5q_4K6aNajVLKtkaAB1JGmKyccf2) and find the beat. Clap your hands, snap your fingers or tap your toes.
+The beat of a song is similar to the tick-tock of a clock. Finding the beat in a song is like listening for the sound of a clock within a room. You may not recognize it until you focus on the sound. Listen to a [song](https://www.youtube.com/watch?v=DohRa9lsx0Q&list=PLK9Sc5q_4K6aNajVLKtkaAB1JGmKyccf2) and find the beat. Clap your hands, snap your fingers or tap your toes.
 
 Maintain following the beat for the entire song. Alternate between clapping, snapping, tapping or verbalizing the beat.
 
@@ -50,9 +50,9 @@ PitchPlay's [metronome](https://pitchplay.io) makes subdivision easy with the ab
 *Exercise 3*
 
 - Snap, clap, tap or say the subdivisions of the beat you've set on your metronome (60).
-  - You can subdivide eighth notes to begin with (2 notes in the time of 1 beat)
+- You can subdivide the beat into eighth notes to begin with (2 notes in the time of 1 beat)
 - Change the tempo of your metronome.
-- Try subdividing with triplets or sixteenth notes (fitting 3 or 4 notes into the beat).
+- Try subdividing into triplets or sixteenth notes (fitting 3 or 4 notes into the beat).
 - Experiment with switching back and forth between different subdivisions while maintaining the tempo.
 
 #### Adding Complexity to the Beat
