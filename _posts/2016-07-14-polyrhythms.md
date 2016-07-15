@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Polyrhythms"
+title: "It's Like Patting Your Head and Rubbing Your Tummy: Polyrhythms"
 author: "Hayley MacLeod"
 categories: music
 header: /assets/img/2016-07-15/hypnosis.jpg
@@ -16,7 +16,7 @@ To begin, start with the most basic of polyrhythms, 2 against 3.
 
 ## 2:3
 
-The most accurate way to practice any polyrhythm is with a [metronome](https://pitchplay.io). Look at, listen to and then try playing the polyrhythm yourself.
+The most accurate way to practice any polyrhythm is with a [metronome](https://pitchplay.io). Look at, listen to, and then try playing the polyrhythm yourself.
 
 ![](/assets/img/2016-07-15/2_3staff.png){:width="90%"}
 
@@ -24,13 +24,13 @@ AUDIO
 
 *Exercise*
 
-- set your metronome to a slow BPM (40-50)
-- begin by tapping eighths for each beat of the metronome
-- speak the triplet value over the steady eighths
+- Set your metronome to a slow BPM (40-50).
+- Begin by tapping eighths for each beat of the metronome.
+- Speak the triplet value over the steady eighths.
   - sometimes verbalizing the rhythm can help, try "George Washington"
-- now try adding the triplet value you are speaking to your other hand
-- once mastered, switch hands
-- you can increase the tempo of the metronome
+- Now try adding the triplet value you are speaking to your other hand.
+- Once you are getting the hang of it, switch hands.
+- Increase the tempo of the metronome.
 
 Additionally, [visualizing](https://www.youtube.com/watch?v=A8tKbd91kFA) the rhythm may help.
 
@@ -44,12 +44,12 @@ AUDIO
 
 *Exercise*
 
-- set your metronome to a slow BPM (40-50)
-- begin by tapping 4 sixteenth notes for each beat of the metronome
-- speak the triplet value over the sixteenth notes
-- try and add the triplet value you are speaking to your other hand
-- once mastered, switch hands
-- increase the tempo of the metronome
+- Set your metronome to a slow BPM (40-50).
+- Begin by tapping 4 sixteenth notes for each beat of the metronome.
+- Speak the triplet value over the sixteenth notes.
+- Try and add the triplet value you are speaking to your other hand.
+- Once you are getting the hang of it, switch hands.
+- Increase the tempo of the metronome.
 
 ## 5:4
 
@@ -61,12 +61,12 @@ AUDIO
 
 *Exercise*
 
-- set your metronome to a slow BPM (40-50)
-- begin by tapping 4 quarter notes with one hand
-- speak the 5 value over the 4
+- Set your metronome to a slow BPM (40-50).
+- Begin by tapping 4 quarter notes with one hand.
+- Speak the 5 value over the 4.
   - "Min-ne-ap-o-lis" and "Un-i-ver-si-ty" are 5 syllable words that work over the four quarters
-- try and add the 5 value to your other hand while maintaining the 4 quarters
-- once mastered, switch hands
+- Try and add the 5 value to your other hand while maintaining the 4 quarters.
+- Once you are getting the hang of it, switch hands.
 
 ### Adding Your Instrument
 
@@ -76,10 +76,10 @@ Once you begin to feel confident playing polyrhythms, you can begin practicing t
 
 ![](/assets/img/2016-07-15/instrument.png){:width="90%"}
 
-- set the metronome to a slow eighth note pulse (1 &, 1 &, 1 &)
-- now play the triplets over the 2 with your instrument
-- try a scale
-- try improvising
+- Set the metronome to a slow eighth note pulse (1 &, 1 &, 1 &).
+- Now play the triplets over the 2 with your instrument.
+- Try a scale.
+- Try improvising.
 
 AUDIO
 
