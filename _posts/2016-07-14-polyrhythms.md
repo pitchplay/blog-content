@@ -19,8 +19,7 @@ To begin, start with the most basic of polyrhythms, 2 against 3.
 The most accurate way to practice any polyrhythm is with a [metronome](https://pitchplay.io). Look at, listen to, and then try playing the polyrhythm yourself.
 
 ![](/assets/img/2016-07-15/2_3staff.png){:width="90%"}
-
-AUDIO
+![](/assets/sound/2016-07-15/2_3.wav)
 
 *Exercise*
 
@@ -39,8 +38,7 @@ Additionally, [visualizing](https://www.youtube.com/watch?v=A8tKbd91kFA) the rhy
 Following the same steps as with 2:3, you can learn other polyrhythms like 3:4. In this case, while one hand taps three beats, the other hand will tap four.
 
 ![](/assets/img/2016-07-15/3_4staff.png){:width="90%"}
-
-AUDIO
+![](/assets/sound/2016-07-15/3_4.wav)
 
 *Exercise*
 
@@ -56,8 +54,7 @@ AUDIO
 Now, while one hand taps four beats, the other hand will tap five.
 
 ![](/assets/img/2016-07-15/5_4staff.png){:width="90%"}
-
-AUDIO
+![](/assets/sound/2016-07-15/5_4.wav)
 
 *Exercise*
 
@@ -75,13 +72,12 @@ Once you begin to feel confident playing polyrhythms, you can begin practicing t
 *Exercise Example for 2:3*
 
 ![](/assets/img/2016-07-15/instrument.png){:width="90%"}
+![](/assets/sound/2016-07-15/instrument.wav)
 
 - Set the metronome to a slow eighth note pulse (1 &, 1 &, 1 &).
 - Now play the triplets over the 2 with your instrument.
 - Try a scale.
 - Try improvising.
-
-AUDIO
 
 ### It's Just the Beginning
 
