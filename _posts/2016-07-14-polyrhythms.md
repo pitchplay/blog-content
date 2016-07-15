@@ -81,8 +81,6 @@ Once you begin to feel confident playing polyrhythms, you can begin practicing t
 - try a scale
 - try improvising
 
-Try the above polyrhythms with your instrument.
-
 AUDIO
 
 ### It's Just the Beginning
