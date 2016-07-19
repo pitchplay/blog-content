@@ -6,14 +6,14 @@ categories: practice
 header: /assets/img/2016-07-14/tambourine.jpg
 ---
 
-Rhythm is often under-rated both in practice and teaching. Whether you are beginning to learn or you are a seasoned performer, it never hurts to set aside some time to practice developing, improving or strengthening your rhythmic capabilities. A strong sense of rhythm is one of the distinguishing features of a great musician. In a performance, inconsistent rhythms can lead to feelings of unease. What’s the fastest way to rule rhythm? __The metronome__.
+RRhythm is often under-rated both in practice and teaching. Yet, it never hurts to set aside some time to practice developing or strengthening your rhythmic capabilities. A strong sense of rhythm is one of the distinguishing features of a great musician. In a performance, inconsistent rhythms can lead to feelings of unease. What’s the fastest way to rule rhythm? __The metronome__.
 
 ## 3 Ways to 'Level Up' Your Rhythm Game
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/5G7UIeYGq0k" frameborder="0" allowfullscreen></iframe>
 ___________________________________
 
-Below are three simple ways you can strengthen your rhythm followed by exercises you can practice with or without your instrument.
+Below are three simple ways you can strengthen your rhythm followed by exercises you can practice.
 
 ### Keeping the Beat
 
@@ -21,19 +21,19 @@ The beat of a song is similar to the tick-tock of a clock. Finding the beat is l
 
 Keeping the beat once you find or establish it is very important. The beat works as a reference point for all other rhythms occuring within the music. Finding and keeping the beat within a song is the first step towards being able to maintain an even tempo.
 
-Listen to a [song](https://www.youtube.com/watch?v=DohRa9lsx0Q&list=PLK9Sc5q_4K6aNajVLKtkaAB1JGmKyccf2) and find the beat. Clap your hands, snap your fingers or tap your toes. Maintain following the beat for the entire song. Alternate between clapping, snapping, tapping or verbalizing the beat.
+The next time you are listening to [music](https://www.youtube.com/watch?v=DohRa9lsx0Q&list=PLK9Sc5q_4K6aNajVLKtkaAB1JGmKyccf2), try finding and keeping the beat.
 
-*If you think finding and keeping the beat in most songs is too simplistic for you, try keeping the beat in songs with [changing metres](https://www.youtube.com/watch?v=ZAYt-BMUuA8).*
+*If you think finding and keeping the beat in most songs is too simplistic, try keeping the beat in songs with [changing metres](https://www.youtube.com/watch?v=ZAYt-BMUuA8).*
 
 ### Internalizing the Beat
 
 Internalizing the beat is important. It ensures that you will be able to maintain a consistent tempo regardless of how much attention you pay to the music.
 
-When you practice internalizing a beat, it is best done by use of your voice. By vocalizing the beat, you ensure that you will always feel the vibrations you make regardless of how loud or distracting the music becomes. When you have internalized a beat, you no longer have to rely on your toes, fingers or voice to keep things at a __steady pulse__.
+When you practice internalizing a beat, it is best done by use of your voice. By vocalizing the beat, you ensure that you will always feel the vibrations you make regardless of how loud or distracting the music is. When you have internalized a beat, you no longer have to rely on your toes, fingers or voice to keep things at a __steady pulse__.
 
 With the beat internalized in your physical body, if you were to become distracted during a performance, you would not have to worry about losing the tempo or rhythm. Your internalized beat works like a back-up battery ensuring that the performance continues to run smoothly.
 
-![](/assets/img/2016-07-14/heartbeat.jpg){:width="75%"}
+![](/assets/img/2016-07-14/heartbeat.jpg){:width="60%"}
 
 ### Subdividing the Beat
 
