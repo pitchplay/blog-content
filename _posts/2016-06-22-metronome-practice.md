@@ -6,7 +6,7 @@ categories: practice
 header: /assets/img/2016-07-14/tambourine.jpg
 ---
 
-RRhythm is often under-rated both in practice and teaching. Yet, it never hurts to set aside some time to practice developing or strengthening your rhythmic capabilities. A strong sense of rhythm is one of the distinguishing features of a great musician. In a performance, inconsistent rhythms can lead to feelings of unease. What’s the fastest way to rule rhythm? __The metronome__.
+Rhythm is often under-rated both in practice and teaching. Yet, It never hurts to set aside some time to practice strengthening your rhythm. A strong sense of rhythm is one of the distinguishing features of a great musician. In a performance, inconsistent rhythms can lead to feelings of unease. What’s the fastest way to rule rhythm? __The metronome__.
 
 ## 3 Ways to 'Level Up' Your Rhythm Game
 
@@ -23,15 +23,15 @@ Keeping the beat once you find or establish it is very important. The beat works
 
 The next time you are listening to [music](https://www.youtube.com/watch?v=DohRa9lsx0Q&list=PLK9Sc5q_4K6aNajVLKtkaAB1JGmKyccf2), try finding and keeping the beat.
 
-*If you think finding and keeping the beat in most songs is too simplistic, try keeping the beat in songs with [changing metres](https://www.youtube.com/watch?v=ZAYt-BMUuA8).*
+*If you think keeping the beat in most songs is too simplistic, try songs with [changing metres](https://www.youtube.com/watch?v=ZAYt-BMUuA8).*
 
 ### Internalizing the Beat
 
 Internalizing the beat is important. It ensures that you will be able to maintain a consistent tempo regardless of how much attention you pay to the music.
 
-When you practice internalizing a beat, it is best done by use of your voice. By vocalizing the beat, you ensure that you will always feel the vibrations you make regardless of how loud or distracting the music is. When you have internalized a beat, you no longer have to rely on your toes, fingers or voice to keep things at a __steady pulse__.
+When you practice internalizing a beat, it is best done by use of your voice. By vocalizing the beat, you ensure that you will always feel the vibrations regardless of how loud or distracting the music is. When you have internalized a beat, you no longer have to rely on your toes, fingers or voice to keep things at a __steady pulse__.
 
-With the beat internalized in your physical body, if you were to become distracted during a performance, you would not have to worry about losing the tempo or rhythm. Your internalized beat works like a back-up battery ensuring that the performance continues to run smoothly.
+An internalized beat works like a back-up battery. It ensures that the performance continues to run smoothly. You would not have to worry about distractions causing you to lose the tempo or rhythm during a performance.
 
 ![](/assets/img/2016-07-14/heartbeat.jpg){:width="60%"}
 
@@ -49,7 +49,7 @@ ____________________________________________
 
 - Set your [metronome](https://pitchplay.io) to 60 BPM.
 - Tap, clap, snap or verbalize the beat of the metronome.
-  - Continue doing this until you feel that the sound of the metronome fades (this tells you that your accuracy has improved as your taps begin lining up precisely with the beat).
+  - Continue until you feel that the sound of the metronome fades (this tells you that your accuracy has improved as your taps line up precisely with the beat).
 - Try increasing the BPM of the metronome and repeating the exercise.
 
 #### Exercise 2
@@ -74,6 +74,6 @@ ____________________________________________
 #### Exercise 4
 
 - Pick up your instrument.
-- Walk through the above exercises using your instrument to keep the beat instead of your voice, hands or feet.  
+- Walk through the above exercises using your instrument to keep the beat.  
 
-These exercises, whether you tap, clap, say or play your instrument with them, will give you a stronger sense of rhythm. For more on rhythm, check out the blog on [polyrhythms](https://pitchplay blogasl;falskdfna;lksdgna;gn)
+These exercises, whether you tap, clap, say or play them, they will give you a stronger sense of rhythm. For more on rhythm, check out the blog on [polyrhythms](https://pitchplay blogasl;falskdfna;lksdgna;gn)
