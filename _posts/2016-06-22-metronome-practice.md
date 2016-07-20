@@ -31,7 +31,7 @@ Internalizing the beat is important. It ensures that you will be able to maintai
 
 When you practice internalizing a beat, it is best done by use of your voice. By vocalizing the beat, you ensure that you will always feel the vibrations regardless of how loud or distracting the music is. When you have internalized a beat, you no longer have to rely on your toes, fingers or voice to keep things at a __steady pulse__.
 
-An internalized beat works like a back-up battery. It ensures that the performance continues to run smoothly. You would not have to worry about distractions causing you to lose the tempo or rhythm during a performance.
+An internalized beat works like a back-up battery. It ensures that the performance continues to run smoothly. With an internalized beat, you do not have to worry about distractions causing you to lose the tempo or rhythm during a performance.
 
 ![](/assets/img/2016-07-14/heartbeat.jpg){:width="60%"}
 
@@ -68,7 +68,7 @@ ____________________________________________
 - Change the tempo of your metronome.
 - Try subdividing into triplets or sixteenth notes (fitting 3 or 4 notes into the beat).
 - Experiment with switching back and forth between different subdivisions while maintaining the tempo.
-
+/music/polyrhythm
 *Now that you have done some metronome practice it is time to add another layer of complexity.*
 
 #### Exercise 4
@@ -76,4 +76,4 @@ ____________________________________________
 - Pick up your instrument.
 - Walk through the above exercises using your instrument to keep the beat.  
 
-These exercises, whether you tap, clap, say or play them, they will give you a stronger sense of rhythm. For more on rhythm, check out the blog on [polyrhythms](https://pitchplay blogasl;falskdfna;lksdgna;gn)
+These exercises, whether you tap, clap, say or play them, they will give you a stronger sense of rhythm. For more on rhythm, check out our blog on [polyrhythms](https://pitchplay/music/polyrhythm).
