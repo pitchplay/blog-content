@@ -45,7 +45,7 @@ There are many different polyrhythms and this post explores three of the most po
 
 ### Pen and Paper
 
-If you are ever confused about how to play or notate a polyrhythm, the best thing you can do is get out the pen and paper to draw yourself an example.
+If you are ever confused about how to play or notate a polyrhythm, the best thing you can do is get out the pen and paper to draw yourself a guide.
 
 If I'm looking at the 2:3 polyrhythm I want to figure out when the pattern will repeat so that I know what a pattern cycle looks like. I multiply 2x3 to get 6 and then I know that there is a cycle of 6 little beats before both the 2 and 3 rhythms line up on the same beat again.
 
@@ -63,7 +63,7 @@ If the bottom line represents 3, every 3 x's I'm going to clap (l). The resultin
 
 #### lxxlxx
 
-Now I can practice with a guide if I am having a difficult time understanding or playing the polyrhythm.
+Now I can practice with a visual guide if I am having a difficult time understanding or playing the polyrhythm.
 
 _____________________________
 
@@ -145,4 +145,6 @@ Once you begin to feel confident playing polyrhythms, you can practice them with
 - Try a scale.
 - Try improvising.
 
-Which is more difficult? Patting your head and rubbing your tummy or playing polyrhythms? 
+__________________________________________________
+
+Which is more difficult: Patting your head and rubbing your tummy or playing polyrhythms?
