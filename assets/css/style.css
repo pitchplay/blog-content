@@ -6,7 +6,7 @@ html {
 }
 html, body {
   font-family: 'Open Sans', sans-serif;
-  background-color: white; 
+  background-color: white;
 }
 body { margin-bottom: 150px; background-color: white; }
 
@@ -207,3 +207,7 @@ blockquote p {
   margin-bottom: 20px;
 }
 .post-preview h2 a { color: rgba(0,0,0,.87); }
+
+iframe {
+  padding: 10px;
+}
