@@ -12,7 +12,7 @@ Rhythm is often under-rated both in practice and teaching. Yet, It never hurts t
 
 ## 'Level Up' Your Rhythm Game
 
-Below are three simple ways you can strengthen your rhythm with exercises that you can practice. First though, read about one exercise that will increase the effectiveness of your metronome practice and your love of the tool.
+Below are three ways that you can strengthen your rhythm with exercises that you can practice. First though, read about one exercise that will increase the effectiveness of your metronome practice and your love of the tool.
 
 ### Keep the Beat, Release the Tension
 
