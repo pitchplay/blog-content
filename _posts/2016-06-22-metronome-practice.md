@@ -10,32 +10,33 @@ Rhythm is often under-rated both in practice and teaching. Yet, It never hurts t
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/5G7UIeYGq0k" frameborder="0" allowfullscreen></iframe>
 
-## Keep the Beat, Release the Tension
+## 'Level Up' Your Rhythm Game
 
-Often times when we are playing and practicing we build tension throughout our muscles. Therefore, one of the best things that you can do for your body is to mindfully work at releasing tension when you are practicing. With time, you become an increasingly relaxed musician.
+Below are three simple ways you can strengthen your rhythm with exercises that you can practice. First though, read about one exercise that will increase the effectiveness of your metronome practice and your love of the tool.
 
-Have you ever been to a yoga or meditation class that focuses on breathing? Using a metronome to focus on releasing your tension works similarly to those classes. Where the breath, in yoga and meditation, is used as an object of concentration, the metronome can work the same way. The discipline of concentration with the metronome does two really great things for us as musicians.
+### Keep the Beat, Release the Tension
 
-1) Positively conditions our bodies response upon hearing a metronome.
+Often times when we are practicing, we build tension in our muscles. So, mindfully working towards releasing tension is one of the best things that you can do while practicing.
 
-2) Positively influences our focus and concentration when working with the metronome.
+Have you ever been to a yoga or meditation class that focuses on breathing? Using a metronome to focus on releasing your tension works similarly to those classes. Metronome concentration exercises do two great things for musicians.
 
-Using metronome exercises to release tension is a great way to condition the bodies response upon hearing a metronome. By teaching your body to relax  Try this exercise:
+1) They condition our bodies response upon hearing a metronome
+
+2) They influence our focus and concentration when working with the metronome
+
+Using metronome exercises to release tension is a great way to condition the bodies response upon hearing the sound of a metronome. Then, when you use the metronome to work on improving your rhythm, your conditioned body will be more relaxed. A body that relaxes and releases tension at the sound of the metronome is more likely to practice and perform injury free.
+
+![](/assets/img/2016-07-14/cymbal.jpg){:width="60%"}
+
+#### *Conditioning Exercise*
 
 - Set the metronome to 60 BPM
 - Play for 2 bars
-  - Use your reportoire or scales
-- Then, for 2 bars (8 counts) focus on releasing tension throughout your body
-  - You can modify this to focus on releasing the tension from one specific muscle (or group of muscles) and each time, choose a different muscle.
+  - Use single notes, scales or your reportoire
+- Then, for 2 bars (8 counts), focus on releasing tension throughout your body
+  - You can modify this to focus on releasing tension from one specific muscle (or group of muscles) at a time
 
-  our reaction  a peaceful thoughts when you hear the metronome. Where rhythm is so important, not hearing the metronome as an annoying pervavsive sound can be really helpful. Instead hearing it as a relaxing and calming, tension free reminder not only helps your tension problems but also helps you with your rhythm problems.
-
-making you a more relaxed musician which means you can practice and perform injury free.
-
-## 3 Ways to 'Level Up' Your Rhythm Game
-___________________________________
-
-Below are three simple ways you can strengthen your rhythm followed by exercises you can practice.
+The above exercise will help you learn to relax when you practice and play.  Additionally, it adds variety to your metronome practice and increases your focus. Metronomes are often associated with maintaining or fixing rhythm and tempo. If the tool is always used to do the same things, your desire and focus while using it wanes. The metronome is an important tool for musicians. Make it a tool that works as a reminder to focus, relax and rule rhythm.
 
 ### Keeping the Beat
 
@@ -98,4 +99,4 @@ ____________________________________________
 - Pick up your instrument.
 - Walk through the above exercises using your instrument to keep the beat.  
 
-These exercises, whether you tap, clap, say or play them, they will give you a stronger sense of rhythm. For more on rhythm, check out our blog on [polyrhythms](https://pitchplay/music/polyrhythm).
+These exercises, whether you tap, clap, say or play them, they will give you a stronger sense of rhythm. Furthermore, check out our blog on [polyrhythms](https://pitchplay/music/polyrhythm) to add some variety to your rhythm exercises.
