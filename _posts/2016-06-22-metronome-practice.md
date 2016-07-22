@@ -8,9 +8,31 @@ header: /assets/img/2016-07-14/tambourine.jpg
 
 Rhythm is often under-rated both in practice and teaching. Yet, It never hurts to set aside some time to practice strengthening your rhythm. A strong sense of rhythm is one of the distinguishing features of a great musician. In a performance, inconsistent rhythms can lead to feelings of unease. What’s the fastest way to rule rhythm? __The metronome__.
 
-## 3 Ways to 'Level Up' Your Rhythm Game
-
 <iframe width="420" height="315" src="https://www.youtube.com/embed/5G7UIeYGq0k" frameborder="0" allowfullscreen></iframe>
+
+## Keep the Beat, Release the Tension
+
+Often times when we are playing and practicing we build tension throughout our muscles. Therefore, one of the best things that you can do for your body is to mindfully work at releasing tension when you are practicing. With time, you become an increasingly relaxed musician.
+
+Have you ever been to a yoga or meditation class that focuses on breathing? Using a metronome to focus on releasing your tension works similarly to those classes. Where the breath, in yoga and meditation, is used as an object of concentration, the metronome can work the same way. The discipline of concentration with the metronome does two really great things for us as musicians.
+
+1) Positively conditions our bodies response upon hearing a metronome.
+
+2) Positively influences our focus and concentration when working with the metronome.
+
+Using metronome exercises to release tension is a great way to condition the bodies response upon hearing a metronome. By teaching your body to relax  Try this exercise:
+
+- Set the metronome to 60 BPM
+- Play for 2 bars
+  - Use your reportoire or scales
+- Then, for 2 bars (8 counts) focus on releasing tension throughout your body
+  - You can modify this to focus on releasing the tension from one specific muscle (or group of muscles) and each time, choose a different muscle.
+
+  our reaction  a peaceful thoughts when you hear the metronome. Where rhythm is so important, not hearing the metronome as an annoying pervavsive sound can be really helpful. Instead hearing it as a relaxing and calming, tension free reminder not only helps your tension problems but also helps you with your rhythm problems.
+
+making you a more relaxed musician which means you can practice and perform injury free.
+
+## 3 Ways to 'Level Up' Your Rhythm Game
 ___________________________________
 
 Below are three simple ways you can strengthen your rhythm followed by exercises you can practice.
