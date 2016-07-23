@@ -35,6 +35,7 @@ Using metronome exercises to release tension is a great way to condition the bod
   - Use single notes, scales or your reportoire
 - Then, for 2 bars (8 counts), focus on releasing tension throughout your body
   - You can modify this to focus on releasing tension from one specific muscle (or group of muscles) at a time
+- Repeat!
 
 The above exercise will help you learn to relax when you practice and play.  Additionally, it adds variety to your metronome practice and increases your focus. Metronomes are often associated with maintaining or fixing rhythm and tempo. If the tool is always used to do the same things, your desire and focus while using it wanes. The metronome is an important tool for musicians. Make it a tool that works as a reminder to focus, relax and rule rhythm.
 
