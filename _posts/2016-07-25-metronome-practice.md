@@ -3,7 +3,7 @@ layout: post
 title: "Simple Ways to Rule Rhythm"
 author: "Hayley MacLeod"
 categories: practice
-header: /assets/img/2016-07-14/tambourine.jpg
+header: /assets/img/2016-07-25/tambourine.jpg
 ---
 
 Rhythm is often under-rated both in practice and teaching. Yet, It never hurts to set aside some time to practice strengthening your rhythm. A strong sense of rhythm is one of the distinguishing features of a great musician. In a performance, inconsistent rhythms can lead to feelings of unease. What’s the fastest way to rule rhythm? __The metronome__.
@@ -26,7 +26,7 @@ Have you ever been to a yoga or meditation class that focuses on breathing? Usin
 
 Using metronome exercises to release tension is a great way to condition the bodies response upon hearing the sound of a metronome. Then, when you use the metronome to work on improving your rhythm, your conditioned body will be more relaxed. A body that relaxes and releases tension at the sound of the metronome is more likely to practice and perform injury free.
 
-![](/assets/img/2016-07-14/cymbal.jpg){:width="60%"}
+![](/assets/img/2016-07-25/cymbal.jpg){:width="60%"}
 
 #### *Conditioning Exercise*
 
@@ -57,7 +57,7 @@ When you practice internalizing a beat, it is best done by use of your voice. By
 
 An internalized beat works like a back-up battery. It ensures that the performance continues to run smoothly. With an internalized beat, you do not have to worry about distractions causing you to lose the tempo or rhythm during a performance.
 
-![](/assets/img/2016-07-14/heartbeat.jpg){:width="60%"}
+![](/assets/img/2016-07-25/heartbeat.jpg){:width="60%"}
 
 ### Subdividing the Beat
 
