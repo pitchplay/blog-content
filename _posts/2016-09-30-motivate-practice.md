@@ -23,34 +23,42 @@ Sometimes the thing holding you back is the association of playing your instrume
 
 Always keep your instrument in sight. If it is tucked away, it may seem like too much work to dig it out. Leave it some where safe but easy to access.
 
-## 4) Show Someone How to Play Something
+## 4) Share to Inspire
 
-It is common knowledge that learning new things is often motivating and inspirational for a student. However, sometimes we forget that teaching can be just as motivating and inspirational for the teacher as it is for the student. Share something you know, spread your passion and the result will be fueling your own fire.
+Learning new things is often motivating and inspirational. Teaching can also be motivating and inspirational.
 
-## 5) Think of How You'll Feel Later if You Neglect Your Practice Now
+Share something you know and in turn, you'll inspire yourself to practice.
 
-If positive affirmations and inspiration do not put you in the right mind set to practice, try reminding yourself how you will feel forgoing your practice. This sort of reminder might be enough to remind you of how harmless spending a few minutes on your instrument is and how much better it will make you feel in the long run. Regret tends to last a lot longer than the few moments it will take you to practice. Associate your mindless distractions with the guilt of not practicing to get yourself into a more eager mindset to work. When you have made up 100 excuses not to practice, what you really need is to cut out that part of your brain, just think of the goal, the reward, the motivation.
+## 5) Think of Later to Avoid Neglecting Now
+
+Remind yourself of how you will feel forgoing your practice. It may be enough to remind you of how harmless spending a few minutes on your instrument will be. Regret tends to last longer than the few moments it will take you to pickup your instrument.
+
+Turn off the part of your brain that is allowing you to make excuses about why you should not practice.
 
 ## 6) Plan For Your Break
 
-It may sound silly but planning for your break before you even start may be what you need to get started. If you plan to reward yourself with a cup of coffee, tea or juice after a half hour practice session, you will have something to look forward to that may keep you on track and something to motivate you to start your practice.
+It may sound silly but planning for your break may give you the initiative you need to get started.
 
-## 7) Set Yourself a time
+Plan to reward yourself with a cup of coffee, tea or juice after a half hour (or however long) practice session. This will give you something to look forward to. Furthermore, it will help keep you on track and motivate you to start your practice.
 
-Maybe a deadline will help you out. Set yourself a time to practice so that you can get it done and feel good about the time that you have until you do practice and the free time you will have after you finish practicing. It might be just what you need, some space before you begin practicing to start practicing. Sometimes that is the best thing you can do.
+## 7) A Time and Space
 
-However, be warned, if it is late and you know you are unlikely to follow through with your plans, it would be better to do a little time now and perhaps more later than just throwing in the towel and doing none at all.
+Set a deadline for what time you would like to have your practice done by. You will feel great about all the pre and post practice time you have. Scheduling your day is a great way to achieve a consistent routine.
 
-Create your own little practice space, one that you can make your own and keep all of the things you may need when you are practicing.  
+Additionally, you should create your own practice space. In the space you can keep all the things you may need when you are practicing. This will help focus your mind and keep you on task.
 
 ## 8) Reward Yourself
 
-Plan to reward yourself for your hard work. If you complete a set amount of time or a goal that you had set for yourself. Reward yourself with a treat. Whether it is the cup of coffee or juice (#6) or a couple bucks towards retail therapy, keep your treats rewarding and maintainable to ensure your consistent practice.
+Reward yourself for your hard work. If you practice for the amount of time that you have set, reward yourself with a treat. Likewise, you can reward yourself if you accomplish a goal that you had set out to achieve.
 
-## 9) Inspiration
+Your reward could be as simple as a cup of coffee (see number 6) or putting aside some money towards future retail therapy.
 
-What inspired you to ever pic up your instrument in the first place. Look deep into yourself and if you have a strong passion for anything, you can share it with others. Don't take failure seriously, and instead look at it as a learning experience that you can rise above and don't take it personally
+## 9) Re-ignite The Fire
+
+What inspired you to choose the instrument you have chosen to play. The passion that inspired you to begin playing music is still in you. Find and re-ignite your desire to learn and play. Having a performance or goal to work towards will always be one of the surest ways to fuel the fire.
 
 ## 10) Fake It Till You Make It
 
-Even if you don't feel like practicing, act like you do. Strangely enough, within a few moments, you'll feel motivated.
+Even if you don't feel like practicing, act like you do.  The catchphrase "fake it till you make it" is often used as a therapy technique. The catchphrase encourages an individual to catch themselves in a self-fulfilling prophecy.
+
+The idea is for the musician to act like they want to practice despite contradictory feelings.  Pretending that you want to or that you are enjoying practicing may feel forced at first. With time, the association of practice with accomplishment or enjoyment settles in.
