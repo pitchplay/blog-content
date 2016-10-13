@@ -3,31 +3,31 @@ layout: post
 title: "10 Ways to Motivate Yourself When You Don't Feel Like It"
 author: "Hayley MacLeod"
 categories: pitchplay
-header: /assets/img/blog-header-images/newlooks.png
+header: /assets/img/blog-header-images/motivate.jpg
 ---
-## 1) Fix One Thing
+## 1) Finding a Flow
 
-If an overwhelming feeling of too much to do and too little time to accomplish anything has you feeling paralyzed, then you are likely to avoid practicing. To overcome the feeling and get practicing, pick one small, simple and achievable task.
+If you are feeling overwhelmed, you are likely to avoid practicing. To overcome the feeling and get practicing, pick one small, simple and achievable task.
 
-When the task is small enough that you can focus on one single thing, then you can achieve it. Making small achievements will continue to motivate you to stick it out and help you make small accomplishments. Time does not go by wasted and over time your small accomplishments result in you reaching your bigger goals.
+When the task is small enough that you can focus on one single thing, you can achieve it. Small achievements will motivate you and will help you create a flow. Over time, you will reach your bigger goals.
 
-Do something small and create a flow. Getting started will get you motivated.
+## 2) Listen to Become inspired
 
-## 2) Play Something You Love, Listen to Inspiration
-
-Play your favorite song. Regardless to how irrelevant your favorite song may seem to what you are practicing, hearing something you love is inspiring. Your creative senses will begin to stir.
+Listen to a piece of music that features your instrument. Before you know it, your creative senses will begin to stir. Hearing something you love is inspiring and your fingers will be itching to play.
 
 ## 3) Be Silly
 
-Sometimes the thing holding you back is the association of playing your instrument with work. If the hardest part, what is keeping you from practicing, is just picking up your instrument, think of trying to tackle a new or weird sound effect. Do something fun and be silly. Exploring the sounds that your instrument is able to produce, will inspire you.
+If the thing that is keeping you from practicing, is picking up your instrument, be silly. If playing your instrument feels like a chore, you need to do something that is fun. Try exploring the sounds that your instrument is able to produce. Write a spooky song with silly noises in the spirit of Halloween.
 
-Always keep your instrument in sight. If it is tucked away, it may seem like too much work to dig it out. Leave it some where safe but easy to access.
+Additionally, always keep your instrument in sight. If your instrument is hidden away, it may seem like too much work to dig it out. Keep it some where safe but easy to access.
 
 ## 4) Share to Inspire
 
 Learning new things is often motivating and inspirational. Teaching can also be motivating and inspirational.
 
 Share something you know and in turn, you'll inspire yourself to practice.
+
+![](/assets/img/2016-09-30/sharemusic.jpeg){:width="90%"}
 
 ## 5) Think of Later to Avoid Neglecting Now
 
@@ -56,6 +56,8 @@ Your reward could be as simple as a cup of coffee (see number 6) or putting asid
 ## 9) Re-ignite The Fire
 
 What inspired you to choose the instrument you have chosen to play. The passion that inspired you to begin playing music is still in you. Find and re-ignite your desire to learn and play. Having a performance or goal to work towards will always be one of the surest ways to fuel the fire.
+
+![](/assets/img/2016-09-30/sparkler.jpeg){:width="90%"}
 
 ## 10) Fake It Till You Make It
 
