@@ -5,7 +5,6 @@ author: "Hayley MacLeod"
 categories: pitchplay
 header: /assets/img/blog-header-images/motivate.jpg
 ---
-![](/assets/img/2016-09-30/flow.jpeg){:width="90%"}
 
 ## 1) Find a Flow
 
@@ -13,15 +12,17 @@ If you are feeling overwhelmed, you are likely to avoid practicing. To overcome 
 
 When the task is small enough that you can focus on one single thing, you can achieve it. Small achievements will motivate you and will help you create a flow. Over time, you will reach your bigger goals.
 
-## 2) Listen to Become inspired
+![](/assets/img/2016-09-30/flow.jpg){:width="90%"}
 
-Listen to a piece of music that features your instrument. Before you know it, your creative senses will begin to stir. Hearing something you love is inspiring and your fingers will be itching to play.
+## 2) Listen to Become Inspired
+
+Listen to a piece of music that features your instrument. Before you know it, your creative senses will begin to stir. Hearing something you love is inspiring and your fingers will begin itching to play.
 
 ## 3) Be Silly
 
-If the thing that is keeping you from practicing, is picking up your instrument, be silly. If playing your instrument feels like a chore, you need to do something that is fun. Try exploring the sounds that your instrument is able to produce. Write a spooky song with silly noises in the spirit of Halloween.
+If the thing that is keeping you from practicing, is picking up your instrument, be silly. When playing your instrument feels like a chore, you need to do something that is fun. Try exploring the sounds that your instrument is able to produce. For example, write a spooky song in the spirit of Halloween.
 
-Additionally, always keep your instrument in sight. If your instrument is hidden away, it may seem like too much work to dig it out. Keep it some where safe but easy to access.
+Additionally, always keep your instrument in sight. If it is hidden away, it may seem like too much work to dig it out. Keep it some where safe but easy to access.
 
 ## 4) Share to Inspire
 
@@ -57,12 +58,16 @@ Your reward could be as simple as a cup of coffee (see number 6) or putting asid
 
 ## 9) Re-ignite The Fire
 
-What inspired you to choose the instrument you have chosen to play. The passion that inspired you to begin playing music is still in you. Find and re-ignite your desire to learn and play. Having a performance or goal to work towards will always be one of the surest ways to fuel the fire.
+What inspired you to choose the instrument you have chosen to play? The passion that inspired you to begin playing music is still in you. Find and re-ignite your desire to learn and play. Having a performance or goal to work towards will always be one of the surest ways to fuel the fire.
 
 ![](/assets/img/2016-09-30/sparkler.jpeg){:width="90%"}
 
 ## 10) Fake It Till You Make It
 
-Even if you don't feel like practicing, act like you do.  The catchphrase "fake it till you make it" is often used as a therapy technique. The catchphrase encourages an individual to catch themselves in a self-fulfilling prophecy.
+Even if you don't feel like practicing, act like you do.  With the catchphrase "fake it till you make it," you will find yourself in a self-fulfilling prophecy.
 
-The idea is for the musician to act like they want to practice despite contradictory feelings.  Pretending that you want to or that you are enjoying practicing may feel forced at first. With time, the association of practice with accomplishment or enjoyment settles in.
+Although pretending that you are enjoying practicing may feel forced at first, the association of practice with accomplishment or enjoyment will settle in.
+
+___________________________________
+
+#### What motivates you to practice?
