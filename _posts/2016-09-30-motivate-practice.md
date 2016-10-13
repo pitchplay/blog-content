@@ -5,9 +5,11 @@ author: "Hayley MacLeod"
 categories: pitchplay
 header: /assets/img/blog-header-images/motivate.jpg
 ---
-## 1) Finding a Flow
+![](/assets/img/2016-09-30/flow.jpeg){:width="90%"}
 
-If you are feeling overwhelmed, you are likely to avoid practicing. To overcome the feeling and get practicing, pick one small, simple and achievable task.
+## 1) Find a Flow
+
+If you are feeling overwhelmed, you are likely to avoid practicing. To overcome the feeling, pick one small, simple and achievable task.
 
 When the task is small enough that you can focus on one single thing, you can achieve it. Small achievements will motivate you and will help you create a flow. Over time, you will reach your bigger goals.
 
