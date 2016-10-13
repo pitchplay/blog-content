@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10 Ways to Motivate Yourself When You Don't Feel Like It"
+title: "10 Ways to Motivate Yourself When You Don't Feel Like Practicing"
 author: "Hayley MacLeod"
 categories: pitchplay
 header: /assets/img/blog-header-images/motivate.jpg
